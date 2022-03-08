@@ -19,11 +19,12 @@ while(<MACHINE>){
 }
 close($machineFile);
 #Vector of executables
+chomp($machineName);
 @Executables=("Algorithm1","Algorithm2","Algorithm3");
 @Dimension=("100","200","300");
 foreach $size (@Dimension){
 	foreach $exe (@Executables){
-		$File="results-$machineName".".csv";
+		$File="results/results-$machineName.csv";
 		#print"$File \n";
 		open(FILE,">>",$File) or die "Could not open file $File";
 		for($i=0;$i<$N;$i++){
