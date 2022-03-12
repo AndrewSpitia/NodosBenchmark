@@ -1,7 +1,7 @@
 import csv
 import random
 import pandas as pd
-nodes=["A","C","G","H","I"]
+nodes=["A","B","C","G","H","I"]
 f = [(open('results/results-'+node+'.csv','r'),node) for node in nodes]
 for file,node in f:
     reader = csv.reader(file)
