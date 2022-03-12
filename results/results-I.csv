@@ -1,1440 +1,1441 @@
-I 	 100 	 Algorithm1 	0.003449	
-I 	 100 	 Algorithm1 	0.003420	
-I 	 100 	 Algorithm1 	0.003435	
-I 	 100 	 Algorithm1 	0.003427	
-I 	 100 	 Algorithm1 	0.003412	
-I 	 100 	 Algorithm1 	0.003442	
-I 	 100 	 Algorithm1 	0.003429	
-I 	 100 	 Algorithm1 	0.003408	
-I 	 100 	 Algorithm1 	0.003451	
-I 	 100 	 Algorithm1 	0.003435	
-I 	 100 	 Algorithm2 	0.017452	
-I 	 100 	 Algorithm2 	0.017424	
-I 	 100 	 Algorithm2 	0.017467	
-I 	 100 	 Algorithm2 	0.017418	
-I 	 100 	 Algorithm2 	0.017426	
-I 	 100 	 Algorithm2 	0.017414	
-I 	 100 	 Algorithm2 	0.017437	
-I 	 100 	 Algorithm2 	0.017438	
-I 	 100 	 Algorithm2 	0.017456	
-I 	 100 	 Algorithm2 	0.017480	
-I 	 100 	 Algorithm3 	0.005894	
-I 	 100 	 Algorithm3 	0.005945	
-I 	 100 	 Algorithm3 	0.005737	
-I 	 100 	 Algorithm3 	0.005736	
-I 	 100 	 Algorithm3 	0.005717	
-I 	 100 	 Algorithm3 	0.005728	
-I 	 100 	 Algorithm3 	0.005773	
-I 	 100 	 Algorithm3 	0.005734	
-I 	 100 	 Algorithm3 	0.005768	
-I 	 100 	 Algorithm3 	0.005886	
-I 	 200 	 Algorithm1 	0.027658	
-I 	 200 	 Algorithm1 	0.027618	
-I 	 200 	 Algorithm1 	0.027435	
-I 	 200 	 Algorithm1 	0.027492	
-I 	 200 	 Algorithm1 	0.027459	
-I 	 200 	 Algorithm1 	0.027415	
-I 	 200 	 Algorithm1 	0.027393	
-I 	 200 	 Algorithm1 	0.027529	
-I 	 200 	 Algorithm1 	0.027526	
-I 	 200 	 Algorithm1 	0.027475	
-I 	 200 	 Algorithm2 	0.151209	
-I 	 200 	 Algorithm2 	0.150989	
-I 	 200 	 Algorithm2 	0.150239	
-I 	 200 	 Algorithm2 	0.151021	
-I 	 200 	 Algorithm2 	0.149684	
-I 	 200 	 Algorithm2 	0.149995	
-I 	 200 	 Algorithm2 	0.149598	
-I 	 200 	 Algorithm2 	0.149054	
-I 	 200 	 Algorithm2 	0.149447	
-I 	 200 	 Algorithm2 	0.151237	
-I 	 200 	 Algorithm3 	0.062196	
-I 	 200 	 Algorithm3 	0.060036	
-I 	 200 	 Algorithm3 	0.058369	
-I 	 200 	 Algorithm3 	0.058582	
-I 	 200 	 Algorithm3 	0.059314	
-I 	 200 	 Algorithm3 	0.058973	
-I 	 200 	 Algorithm3 	0.057792	
-I 	 200 	 Algorithm3 	0.059846	
-I 	 200 	 Algorithm3 	0.060429	
-I 	 200 	 Algorithm3 	0.059025	
-I 	 400 	 Algorithm1 	0.231311	
-I 	 400 	 Algorithm1 	0.230717	
-I 	 400 	 Algorithm1 	0.231384	
-I 	 400 	 Algorithm1 	0.230944	
-I 	 400 	 Algorithm1 	0.230792	
-I 	 400 	 Algorithm1 	0.231525	
-I 	 400 	 Algorithm1 	0.230345	
-I 	 400 	 Algorithm1 	0.231225	
-I 	 400 	 Algorithm1 	0.231323	
-I 	 400 	 Algorithm1 	0.230546	
-I 	 400 	 Algorithm2 	1.368320	
-I 	 400 	 Algorithm2 	1.320933	
-I 	 400 	 Algorithm2 	1.358904	
-I 	 400 	 Algorithm2 	1.367566	
-I 	 400 	 Algorithm2 	1.322575	
-I 	 400 	 Algorithm2 	1.332228	
-I 	 400 	 Algorithm2 	1.320961	
-I 	 400 	 Algorithm2 	1.317194	
-I 	 400 	 Algorithm2 	1.388389	
-I 	 400 	 Algorithm2 	1.431514	
-I 	 400 	 Algorithm3 	0.559129	
-I 	 400 	 Algorithm3 	0.529822	
-I 	 400 	 Algorithm3 	0.558595	
-I 	 400 	 Algorithm3 	0.550068	
-I 	 400 	 Algorithm3 	0.549755	
-I 	 400 	 Algorithm3 	0.549732	
-I 	 400 	 Algorithm3 	0.562802	
-I 	 400 	 Algorithm3 	0.548576	
-I 	 400 	 Algorithm3 	0.552056	
-I 	 400 	 Algorithm3 	0.576943	
-I 	 600 	 Algorithm1 	0.782513	
-I 	 600 	 Algorithm1 	0.784044	
-I 	 600 	 Algorithm1 	0.782240	
-I 	 600 	 Algorithm1 	0.783997	
-I 	 600 	 Algorithm1 	0.781492	
-I 	 600 	 Algorithm1 	0.784679	
-I 	 600 	 Algorithm1 	0.782139	
-I 	 600 	 Algorithm1 	0.785455	
-I 	 600 	 Algorithm1 	0.781738	
-I 	 600 	 Algorithm1 	0.793019	
-I 	 600 	 Algorithm2 	5.977686	
-I 	 600 	 Algorithm2 	5.911936	
-I 	 600 	 Algorithm2 	5.726251	
-I 	 600 	 Algorithm2 	5.547997	
-I 	 600 	 Algorithm2 	5.700756	
-I 	 600 	 Algorithm2 	6.136363	
-I 	 600 	 Algorithm2 	5.887671	
-I 	 600 	 Algorithm2 	5.582620	
-I 	 600 	 Algorithm2 	5.235480	
-I 	 600 	 Algorithm2 	5.619083	
-I 	 600 	 Algorithm3 	2.440129	
-I 	 600 	 Algorithm3 	2.233890	
-I 	 600 	 Algorithm3 	2.365305	
-I 	 600 	 Algorithm3 	2.297147	
-I 	 600 	 Algorithm3 	2.327859	
-I 	 600 	 Algorithm3 	2.271553	
-I 	 600 	 Algorithm3 	2.257590	
-I 	 600 	 Algorithm3 	2.305495	
-I 	 600 	 Algorithm3 	2.287233	
-I 	 600 	 Algorithm3 	2.313741	
-I 	 800 	 Algorithm1 	2.493015	
-I 	 800 	 Algorithm1 	2.499244	
-I 	 800 	 Algorithm1 	2.447596	
-I 	 800 	 Algorithm1 	2.558863	
-I 	 800 	 Algorithm1 	2.472232	
-I 	 800 	 Algorithm1 	2.502970	
-I 	 800 	 Algorithm1 	2.471573	
-I 	 800 	 Algorithm1 	2.537994	
-I 	 800 	 Algorithm1 	2.490401	
-I 	 800 	 Algorithm1 	2.496670	
-I 	 800 	 Algorithm2 	14.849271	
-I 	 800 	 Algorithm2 	15.403495	
-I 	 800 	 Algorithm2 	15.652680	
-I 	 800 	 Algorithm2 	15.512441	
-I 	 800 	 Algorithm2 	14.821066	
-I 	 800 	 Algorithm2 	14.839812	
-I 	 800 	 Algorithm2 	14.702113	
-I 	 800 	 Algorithm2 	14.800425	
-I 	 800 	 Algorithm2 	14.855618	
-I 	 800 	 Algorithm2 	14.909663	
-I 	 800 	 Algorithm3 	7.306230	
-I 	 800 	 Algorithm3 	7.557023	
-I 	 800 	 Algorithm3 	7.853691	
-I 	 800 	 Algorithm3 	8.029019	
-I 	 800 	 Algorithm3 	7.531348	
-I 	 800 	 Algorithm3 	8.337956	
-I 	 800 	 Algorithm3 	7.948769	
-I 	 800 	 Algorithm3 	7.418116	
-I 	 800 	 Algorithm3 	7.339644	
-I 	 800 	 Algorithm3 	7.489858	
-I 	 1000 	 Algorithm1 	3.631406	
-I 	 1000 	 Algorithm1 	3.618832	
-I 	 1000 	 Algorithm1 	3.619196	
-I 	 1000 	 Algorithm1 	3.631467	
-I 	 1000 	 Algorithm1 	3.613753	
-I 	 1000 	 Algorithm1 	3.617056	
-I 	 1000 	 Algorithm1 	3.618137	
-I 	 1000 	 Algorithm1 	3.627304	
-I 	 1000 	 Algorithm1 	3.616708	
-I 	 1000 	 Algorithm1 	3.627299	
-I 	 1000 	 Algorithm2 	29.380860	
-I 	 1000 	 Algorithm2 	29.410456	
-I 	 1000 	 Algorithm2 	30.588767	
-I 	 1000 	 Algorithm2 	29.681669	
-I 	 1000 	 Algorithm2 	29.270062	
-I 	 1000 	 Algorithm2 	29.333298	
-I 	 1000 	 Algorithm2 	29.192610	
-I 	 1000 	 Algorithm2 	29.347971	
-I 	 1000 	 Algorithm2 	29.335789	
-I 	 1000 	 Algorithm2 	29.170427	
-I 	 1000 	 Algorithm3 	17.489759	
-I 	 1000 	 Algorithm3 	16.771386	
-I 	 1000 	 Algorithm3 	17.214859	
-I 	 1000 	 Algorithm3 	18.489940	
-I 	 1000 	 Algorithm3 	19.165035	
-I 	 1000 	 Algorithm3 	18.638469	
-I 	 1000 	 Algorithm3 	17.426351	
-I 	 1000 	 Algorithm3 	16.896609	
-I 	 1000 	 Algorithm3 	16.584343	
-I 	 1000 	 Algorithm3 	17.095466	
-I 	 1200 	 Algorithm1 	6.692209	
-I 	 1200 	 Algorithm1 	6.939998	
-I 	 1200 	 Algorithm1 	6.957705	
-I 	 1200 	 Algorithm1 	6.685690	
-I 	 1200 	 Algorithm1 	6.766987	
-I 	 1200 	 Algorithm1 	6.860758	
-I 	 1200 	 Algorithm1 	6.748790	
-I 	 1200 	 Algorithm1 	6.705461	
-I 	 1200 	 Algorithm1 	6.754067	
-I 	 1200 	 Algorithm1 	6.646627	
-I 	 1200 	 Algorithm2 	50.958885	
-I 	 1200 	 Algorithm2 	51.023280	
-I 	 1200 	 Algorithm2 	52.490303	
-I 	 1200 	 Algorithm2 	51.111949	
-I 	 1200 	 Algorithm2 	51.023857	
-I 	 1200 	 Algorithm2 	51.028256	
-I 	 1200 	 Algorithm2 	50.943986	
-I 	 1200 	 Algorithm2 	51.028077	
-I 	 1200 	 Algorithm2 	52.679110	
-I 	 1200 	 Algorithm2 	51.196039	
-I 	 1200 	 Algorithm3 	31.632441	
-I 	 1200 	 Algorithm3 	31.129244	
-I 	 1200 	 Algorithm3 	31.224981	
-I 	 1200 	 Algorithm3 	30.908363	
-I 	 1200 	 Algorithm3 	31.254903	
-I 	 1200 	 Algorithm3 	30.990151	
-I 	 1200 	 Algorithm3 	32.446379	
-I 	 1200 	 Algorithm3 	32.566925	
-I 	 1200 	 Algorithm3 	31.019322	
-I 	 1200 	 Algorithm3 	30.986534	
-I 	 1400 	 Algorithm1 	12.354904	
-I 	 1400 	 Algorithm1 	12.373425	
-I 	 1400 	 Algorithm1 	12.419377	
-I 	 1400 	 Algorithm1 	12.411864	
-I 	 1400 	 Algorithm1 	12.679288	
-I 	 1400 	 Algorithm1 	12.532245	
-I 	 1400 	 Algorithm1 	12.344999	
-I 	 1400 	 Algorithm1 	12.016485	
-I 	 1400 	 Algorithm1 	12.510678	
-I 	 1400 	 Algorithm1 	12.616425	
-I 	 1400 	 Algorithm2 	84.450383	
-I 	 1400 	 Algorithm2 	83.184543	
-I 	 1400 	 Algorithm2 	83.038192	
-I 	 1400 	 Algorithm2 	82.844173	
-I 	 1400 	 Algorithm2 	84.275983	
-I 	 1400 	 Algorithm2 	82.557574	
-I 	 1400 	 Algorithm2 	82.133786	
-I 	 1400 	 Algorithm2 	84.158672	
-I 	 1400 	 Algorithm2 	83.818581	
-I 	 1400 	 Algorithm2 	82.879100	
-I 	 1400 	 Algorithm3 	51.013306	
-I 	 1400 	 Algorithm3 	51.139696	
-I 	 1400 	 Algorithm3 	52.518013	
-I 	 1400 	 Algorithm3 	51.456703	
-I 	 1400 	 Algorithm3 	50.542997	
-I 	 1400 	 Algorithm3 	51.088151	
-I 	 1400 	 Algorithm3 	50.784302	
-I 	 1400 	 Algorithm3 	50.967625	
-I 	 1400 	 Algorithm3 	53.461178	
-I 	 1400 	 Algorithm3 	50.874765	
-I 	 1600 	 Algorithm1 	26.020193	
-I 	 1600 	 Algorithm1 	26.084124	
-I 	 1600 	 Algorithm1 	25.873338	
-I 	 1600 	 Algorithm1 	26.115604	
-I 	 1600 	 Algorithm1 	26.141277	
-I 	 1600 	 Algorithm1 	27.382358	
-I 	 1600 	 Algorithm1 	26.140851	
-I 	 1600 	 Algorithm1 	26.136990	
-I 	 1600 	 Algorithm1 	26.328969	
-I 	 1600 	 Algorithm1 	26.235227	
-I 	 1600 	 Algorithm2 	141.450290	
-I 	 1600 	 Algorithm2 	136.264974	
-I 	 1600 	 Algorithm2 	137.985643	
-I 	 1600 	 Algorithm2 	137.863191	
-I 	 1600 	 Algorithm2 	139.436910	
-I 	 1600 	 Algorithm2 	137.707162	
-I 	 1600 	 Algorithm2 	137.790110	
-I 	 1600 	 Algorithm2 	135.975433	
-I 	 1600 	 Algorithm2 	140.353747	
-I 	 1600 	 Algorithm2 	135.690936	
-I 	 1600 	 Algorithm3 	83.258263	
-I 	 1600 	 Algorithm3 	81.937135	
-I 	 1600 	 Algorithm3 	80.908083	
-I 	 1600 	 Algorithm3 	81.154460	
-I 	 1600 	 Algorithm3 	83.665178	
-I 	 1600 	 Algorithm3 	80.718803	
-I 	 1600 	 Algorithm3 	80.745337	
-I 	 1600 	 Algorithm3 	102.714189	
-I 	 1600 	 Algorithm3 	82.605082	
-I 	 1600 	 Algorithm3 	192.770982	
-I 	 1800 	 Algorithm1 	35.134554	
-I 	 1800 	 Algorithm1 	27.386803	
-I 	 1800 	 Algorithm1 	38.963952	
-I 	 1800 	 Algorithm1 	74.041024	
-I 	 1800 	 Algorithm1 	69.609891	
-I 	 1800 	 Algorithm1 	67.190052	
-I 	 1800 	 Algorithm1 	28.035405	
-I 	 1800 	 Algorithm1 	26.707991	
-I 	 1800 	 Algorithm1 	50.440306	
-I 	 1800 	 Algorithm1 	68.372751	
-I 	 1800 	 Algorithm2 	406.924116	
-I 	 1800 	 Algorithm2 	348.878786	
-I 	 1800 	 Algorithm2 	354.506896	
-I 	 1800 	 Algorithm2 	412.824183	
-I 	 1800 	 Algorithm2 	400.896949	
-I 	 1800 	 Algorithm2 	347.657932	
-I 	 1800 	 Algorithm2 	388.496398	
-I 	 1800 	 Algorithm2 	412.447077	
-I 	 1800 	 Algorithm2 	373.560613	
-I 	 1800 	 Algorithm2 	343.416460	
-I 	 1800 	 Algorithm3 	261.504294	
-I 	 1800 	 Algorithm3 	246.806715	
-I 	 1800 	 Algorithm3 	200.581843	
-I 	 1800 	 Algorithm3 	197.303255	
-I 	 1800 	 Algorithm3 	256.716565	
-I 	 1800 	 Algorithm3 	254.478408	
-I 	 1800 	 Algorithm3 	202.325509	
-I 	 1800 	 Algorithm3 	202.343803	
-I 	 1800 	 Algorithm3 	242.995876	
-I 	 1800 	 Algorithm3 	247.225629	
-I 	 2000 	 Algorithm1 	67.090094	
-I 	 2000 	 Algorithm1 	122.090532	
-I 	 2000 	 Algorithm1 	133.390837	
-I 	 2000 	 Algorithm1 	58.108676	
-I 	 2000 	 Algorithm1 	144.567204	
-I 	 2000 	 Algorithm1 	111.253984	
-I 	 2000 	 Algorithm1 	80.865606	
-I 	 2000 	 Algorithm1 	148.903416	
-I 	 2000 	 Algorithm1 	85.673974	
-I 	 2000 	 Algorithm1 	102.480750	
-I 	 2000 	 Algorithm2 	534.570101	
-I 	 2000 	 Algorithm2 	564.824252	
-I 	 2000 	 Algorithm2 	574.028901	
-I 	 2000 	 Algorithm2 	561.329049	
-I 	 2000 	 Algorithm2 	520.559817	
-I 	 2000 	 Algorithm2 	532.088358	
-I 	 2000 	 Algorithm2 	528.768984	
-I 	 2000 	 Algorithm2 	572.366181	
-I 	 2000 	 Algorithm2 	568.787036	
-I 	 2000 	 Algorithm2 	521.516590	
-I 	 2000 	 Algorithm3 	321.875287	
-I 	 2000 	 Algorithm3 	321.898405	
-I 	 2000 	 Algorithm3 	319.478106	
-I 	 2000 	 Algorithm3 	310.876942	
-I 	 2000 	 Algorithm3 	323.178126	
-I 	 2000 	 Algorithm3 	310.905249	
-I 	 2000 	 Algorithm3 	307.355312	
-I 	 2000 	 Algorithm3 	311.573759	
-I 	 2000 	 Algorithm3 	319.128949	
-I 	 2000 	 Algorithm3 	321.810909	
-I 	 2200 	 Algorithm1 	167.886310	
-I 	 2200 	 Algorithm1 	75.466580	
-I 	 2200 	 Algorithm1 	162.991219	
-I 	 2200 	 Algorithm1 	118.706998	
-I 	 2200 	 Algorithm1 	130.385505	
-I 	 2200 	 Algorithm1 	139.864300	
-I 	 2200 	 Algorithm1 	89.170445	
-I 	 2200 	 Algorithm1 	169.936213	
-I 	 2200 	 Algorithm1 	84.681908	
-I 	 2200 	 Algorithm1 	159.441436	
-I 	 2200 	 Algorithm2 	801.419225	
-I 	 2200 	 Algorithm2 	824.153209	
-I 	 2200 	 Algorithm2 	856.860935	
-I 	 2200 	 Algorithm2 	801.030975	
-I 	 2200 	 Algorithm2 	785.252452	
-I 	 2200 	 Algorithm2 	842.177100	
-I 	 2200 	 Algorithm2 	840.754921	
-I 	 2200 	 Algorithm2 	781.310626	
-I 	 2200 	 Algorithm2 	799.738467	
-I 	 2200 	 Algorithm2 	856.503049	
-I 	 2200 	 Algorithm3 	450.444320	
-I 	 2200 	 Algorithm3 	461.345886	
-I 	 2200 	 Algorithm3 	462.958317	
-I 	 2200 	 Algorithm3 	445.686642	
-I 	 2200 	 Algorithm3 	469.708612	
-I 	 2200 	 Algorithm3 	438.376695	
-I 	 2200 	 Algorithm3 	485.552894	
-I 	 2200 	 Algorithm3 	423.452454	
-I 	 2200 	 Algorithm3 	496.184301	
-I 	 2200 	 Algorithm3 	409.739546	
-I 	 2400 	 Algorithm1 	248.700687	
-I 	 2400 	 Algorithm1 	199.910458	
-I 	 2400 	 Algorithm1 	169.674997	
-I 	 2400 	 Algorithm1 	237.082290	
-I 	 2400 	 Algorithm1 	214.841490	
-I 	 2400 	 Algorithm1 	171.237039	
-I 	 2400 	 Algorithm1 	222.144362	
-I 	 2400 	 Algorithm1 	230.934707	
-I 	 2400 	 Algorithm1 	171.259503	
-I 	 2400 	 Algorithm1 	207.774701	
-I 	 2400 	 Algorithm2 	1158.909958	
-I 	 2400 	 Algorithm2 	1124.713450	
-I 	 2400 	 Algorithm2 	1074.002015	
-I 	 2400 	 Algorithm2 	1124.470632	
-I 	 2400 	 Algorithm2 	1133.890068	
-I 	 2400 	 Algorithm2 	1092.012588	
-I 	 2400 	 Algorithm2 	1096.787219	
-I 	 2400 	 Algorithm2 	1156.877010	
-I 	 2400 	 Algorithm2 	1106.888242	
-I 	 2400 	 Algorithm2 	1093.112235	
-I 	 2400 	 Algorithm3 	640.145092	
-I 	 2400 	 Algorithm3 	632.924341	
-I 	 2400 	 Algorithm3 	635.595797	
-I 	 2400 	 Algorithm3 	641.521644	
-I 	 2400 	 Algorithm3 	633.532581	
-I 	 2400 	 Algorithm3 	617.916728	
-I 	 2400 	 Algorithm3 	613.689829	
-I 	 2400 	 Algorithm3 	614.334744	
-I 	 2400 	 Algorithm3 	614.539737	
-I 	 2400 	 Algorithm3 	644.801750	
-I 	 2600 	 Algorithm1 	258.010788	
-I 	 2600 	 Algorithm1 	276.859772	
-I 	 2600 	 Algorithm1 	279.281231	
-I 	 2600 	 Algorithm1 	279.531435	
-I 	 2600 	 Algorithm1 	258.591887	
-I 	 2600 	 Algorithm1 	259.366830	
-I 	 2600 	 Algorithm1 	251.652179	
-I 	 2600 	 Algorithm1 	249.199014	
-I 	 2600 	 Algorithm1 	251.607459	
-I 	 2600 	 Algorithm1 	272.025006	
-I 	 2600 	 Algorithm2 	1511.692461	
-I 	 2600 	 Algorithm2 	1590.213130	
-I 	 2600 	 Algorithm2 	1502.649694	
-I 	 2600 	 Algorithm2 	1471.943168	
-I 	 2600 	 Algorithm2 	1488.093212	
-I 	 2600 	 Algorithm2 	1485.511216	
-I 	 2600 	 Algorithm2 	1474.428506	
-I 	 2600 	 Algorithm2 	1479.586452	
-I 	 2600 	 Algorithm2 	1630.945488	
-I 	 2600 	 Algorithm2 	1773.460038	
-I 	 2600 	 Algorithm3 	1016.158873	
-I 	 2600 	 Algorithm3 	952.989186	
-I 	 2600 	 Algorithm3 	980.021341	
-I 	 2600 	 Algorithm3 	1012.866190	
-I 	 2600 	 Algorithm3 	971.614356	
-I 	 2600 	 Algorithm3 	940.043408	
-I 	 2600 	 Algorithm3 	996.925331	
-I 	 2600 	 Algorithm3 	1015.177131	
-I 	 2600 	 Algorithm3 	957.470130	
-I 	 2600 	 Algorithm3 	946.559582	
-I 	 2800 	 Algorithm1 	573.594419	
-I 	 2800 	 Algorithm1 	582.485442	
-I 	 2800 	 Algorithm1 	579.341094	
-I 	 2800 	 Algorithm1 	576.859280	
-I 	 2800 	 Algorithm1 	559.623852	
-I 	 2800 	 Algorithm1 	547.639998	
-I 	 2800 	 Algorithm1 	546.928945	
-I 	 2800 	 Algorithm1 	543.539365	
-I 	 2800 	 Algorithm1 	571.689083	
-I 	 2800 	 Algorithm1 	576.161262	
-I 	 2800 	 Algorithm2 	2235.620948	
-I 	 2800 	 Algorithm2 	2248.036564	
-I 	 2800 	 Algorithm2 	2222.171080	
-I 	 2800 	 Algorithm2 	2262.771068	
-I 	 2800 	 Algorithm2 	2212.527499	
-I 	 2800 	 Algorithm2 	2286.107003	
-I 	 2800 	 Algorithm2 	2251.794281	
-I 	 2800 	 Algorithm2 	2280.194989	
-I 	 2800 	 Algorithm2 	2357.076718	
-I 	 2800 	 Algorithm2 	2276.815889	
-I 	 2800 	 Algorithm3 	1287.385905	
-I 	 2800 	 Algorithm3 	1255.951398	
-I 	 2800 	 Algorithm3 	1233.619809	
-I 	 2800 	 Algorithm3 	1190.453141	
-I 	 2800 	 Algorithm3 	1253.050893	
-I 	 2800 	 Algorithm3 	1314.818858	
-I 	 2800 	 Algorithm3 	1286.075356	
-I 	 2800 	 Algorithm3 	1246.854444	
-I 	 2800 	 Algorithm3 	1313.418651	
-I 	 2800 	 Algorithm3 	1321.593738	
-I 	 3000 	 Algorithm1 	756.103451	
-I 	 3000 	 Algorithm1 	788.509872	
-I 	 3000 	 Algorithm1 	829.686478	
-I 	 3000 	 Algorithm1 	751.962851	
-I 	 3000 	 Algorithm1 	801.787438	
-I 	 3000 	 Algorithm1 	818.666830	
-I 	 3000 	 Algorithm1 	758.400356	
-I 	 3000 	 Algorithm1 	815.701564	
-I 	 3000 	 Algorithm1 	803.826824	
-I 	 3000 	 Algorithm1 	745.628314	
-I 	 3000 	 Algorithm2 	2893.315272	
-I 	 3000 	 Algorithm2 	2795.660276	
-I 	 3000 	 Algorithm2 	2886.046040	
-I 	 3000 	 Algorithm2 	2790.375379	
-I 	 3000 	 Algorithm2 	2859.061305	
-I 	 3000 	 Algorithm2 	2823.739617	
-I 	 3000 	 Algorithm2 	2822.901756	
-I 	 3000 	 Algorithm2 	2849.868139	
-I 	 3000 	 Algorithm2 	2782.579452	
-I 	 3000 	 Algorithm2 	2889.305014	
-I 	 3000 	 Algorithm3 	1555.158224	
-I 	 3000 	 Algorithm3 	1585.930109	
-I 	 3000 	 Algorithm3 	1619.348570	
-I 	 3000 	 Algorithm3 	1575.366571	
-I 	 3000 	 Algorithm3 	1564.866985	
-I 	 3000 	 Algorithm3 	1625.151175	
-I 	 3000 	 Algorithm3 	1595.887661	
-I 	 3000 	 Algorithm3 	1549.502205	
-I 	 3000 	 Algorithm3 	1639.167759	
-I 	 3000 	 Algorithm3 	1602.985845	
-I	100	Algorithm1	0.003418
-I	100	Algorithm1	0.003412
-I	100	Algorithm1	0.003428
-I	100	Algorithm1	0.003412
-I	100	Algorithm1	0.003434
-I	100	Algorithm1	0.003447
-I	100	Algorithm1	0.003447
-I	100	Algorithm1	0.003439
-I	100	Algorithm1	0.003433
-I	100	Algorithm1	0.003423
-I	100	Algorithm1	0.003429
-I	100	Algorithm1	0.003451
-I	100	Algorithm1	0.003417
-I	100	Algorithm1	0.003450
-I	100	Algorithm1	0.003422
-I	100	Algorithm1	0.003410
-I	100	Algorithm1	0.003417
-I	100	Algorithm1	0.003445
-I	100	Algorithm1	0.003425
-I	100	Algorithm1	0.003421
-I	100	Algorithm2	0.017475
-I	100	Algorithm2	0.017422
-I	100	Algorithm2	0.017418
-I	100	Algorithm2	0.017417
-I	100	Algorithm2	0.017441
-I	100	Algorithm2	0.017471
-I	100	Algorithm2	0.017444
-I	100	Algorithm2	0.017436
-I	100	Algorithm2	0.017450
-I	100	Algorithm2	0.017474
-I	100	Algorithm2	0.017423
-I	100	Algorithm2	0.017480
-I	100	Algorithm2	0.017435
-I	100	Algorithm2	0.017441
-I	100	Algorithm2	0.017426
-I	100	Algorithm2	0.017425
-I	100	Algorithm2	0.017464
-I	100	Algorithm2	0.017460
-I	100	Algorithm2	0.017446
-I	100	Algorithm2	0.017425
-I	100	Algorithm3	0.005887
-I	100	Algorithm3	0.005910
-I	100	Algorithm3	0.005827
-I	100	Algorithm3	0.005821
-I	100	Algorithm3	0.005873
-I	100	Algorithm3	0.005937
-I	100	Algorithm3	0.005923
-I	100	Algorithm3	0.005813
-I	100	Algorithm3	0.005903
-I	100	Algorithm3	0.005802
-I	100	Algorithm3	0.005794
-I	100	Algorithm3	0.005773
-I	100	Algorithm3	0.005868
-I	100	Algorithm3	0.005808
-I	100	Algorithm3	0.005786
-I	100	Algorithm3	0.005775
-I	100	Algorithm3	0.005854
-I	100	Algorithm3	0.005915
-I	100	Algorithm3	0.005864
-I	100	Algorithm3	0.005884
-I	1000	Algorithm1	3.614457
-I	1000	Algorithm1	3.631048
-I	1000	Algorithm1	3.630507
-I	1000	Algorithm1	3.627207
-I	1000	Algorithm1	3.629956
-I	1000	Algorithm1	3.615449
-I	1000	Algorithm1	3.618782
-I	1000	Algorithm1	3.629677
-I	1000	Algorithm1	3.630293
-I	1000	Algorithm1	3.628181
-I	1000	Algorithm1	3.613812
-I	1000	Algorithm1	3.628564
-I	1000	Algorithm1	3.621226
-I	1000	Algorithm1	3.619507
-I	1000	Algorithm1	3.622550
-I	1000	Algorithm1	3.625596
-I	1000	Algorithm1	3.622700
-I	1000	Algorithm1	3.623063
-I	1000	Algorithm1	3.621133
-I	1000	Algorithm1	3.629754
-I	1000	Algorithm2	30.401236
-I	1000	Algorithm2	30.354371
-I	1000	Algorithm2	30.074453
-I	1000	Algorithm2	30.333563
-I	1000	Algorithm2	30.475237
-I	1000	Algorithm2	30.474381
-I	1000	Algorithm2	29.970985
-I	1000	Algorithm2	29.495240
-I	1000	Algorithm2	30.066452
-I	1000	Algorithm2	29.991420
-I	1000	Algorithm2	30.198609
-I	1000	Algorithm2	29.204469
-I	1000	Algorithm2	29.880883
-I	1000	Algorithm2	29.649104
-I	1000	Algorithm2	29.623546
-I	1000	Algorithm2	30.259870
-I	1000	Algorithm2	30.211533
-I	1000	Algorithm2	30.119243
-I	1000	Algorithm2	30.421448
-I	1000	Algorithm2	30.539864
-I	1000	Algorithm3	18.679688
-I	1000	Algorithm3	16.858959
-I	1000	Algorithm3	17.691378
-I	1000	Algorithm3	18.026473
-I	1000	Algorithm3	17.736487
-I	1000	Algorithm3	18.356705
-I	1000	Algorithm3	18.141916
-I	1000	Algorithm3	18.467426
-I	1000	Algorithm3	17.885494
-I	1000	Algorithm3	19.004351
-I	1000	Algorithm3	17.220182
-I	1000	Algorithm3	18.553566
-I	1000	Algorithm3	16.672643
-I	1000	Algorithm3	18.696502
-I	1000	Algorithm3	18.850068
-I	1000	Algorithm3	18.293116
-I	1000	Algorithm3	16.753768
-I	1000	Algorithm3	17.738108
-I	1000	Algorithm3	19.098450
-I	1000	Algorithm3	18.254476
-I	1200	Algorithm1	6.836999
-I	1200	Algorithm1	6.941570
-I	1200	Algorithm1	6.704058
-I	1200	Algorithm1	6.727722
-I	1200	Algorithm1	6.702325
-I	1200	Algorithm1	6.672933
-I	1200	Algorithm1	6.747700
-I	1200	Algorithm1	6.694553
-I	1200	Algorithm1	6.790580
-I	1200	Algorithm1	6.862948
-I	1200	Algorithm1	6.775988
-I	1200	Algorithm1	6.852755
-I	1200	Algorithm1	6.895663
-I	1200	Algorithm1	6.719703
-I	1200	Algorithm1	6.902804
-I	1200	Algorithm1	6.670742
-I	1200	Algorithm1	6.842486
-I	1200	Algorithm1	6.762516
-I	1200	Algorithm1	6.841128
-I	1200	Algorithm1	6.813206
-I	1200	Algorithm2	51.599917
-I	1200	Algorithm2	51.268659
-I	1200	Algorithm2	52.256600
-I	1200	Algorithm2	52.497230
-I	1200	Algorithm2	52.579174
-I	1200	Algorithm2	51.678576
-I	1200	Algorithm2	51.321630
-I	1200	Algorithm2	52.178718
-I	1200	Algorithm2	52.073723
-I	1200	Algorithm2	51.238988
-I	1200	Algorithm2	52.220477
-I	1200	Algorithm2	51.896225
-I	1200	Algorithm2	52.526176
-I	1200	Algorithm2	51.776983
-I	1200	Algorithm2	51.552090
-I	1200	Algorithm2	52.074505
-I	1200	Algorithm2	52.056849
-I	1200	Algorithm2	51.693111
-I	1200	Algorithm2	51.278029
-I	1200	Algorithm2	52.075006
-I	1200	Algorithm3	31.855006
-I	1200	Algorithm3	32.270113
-I	1200	Algorithm3	32.288794
-I	1200	Algorithm3	32.192800
-I	1200	Algorithm3	31.023906
-I	1200	Algorithm3	31.198181
-I	1200	Algorithm3	32.482731
-I	1200	Algorithm3	31.621464
-I	1200	Algorithm3	32.138873
-I	1200	Algorithm3	31.991787
-I	1200	Algorithm3	31.625335
-I	1200	Algorithm3	32.527700
-I	1200	Algorithm3	32.355239
-I	1200	Algorithm3	31.389168
-I	1200	Algorithm3	31.798833
-I	1200	Algorithm3	30.925207
-I	1200	Algorithm3	31.983752
-I	1200	Algorithm3	30.946255
-I	1200	Algorithm3	31.729615
-I	1200	Algorithm3	30.952424
-I	1400	Algorithm1	12.316295
-I	1400	Algorithm1	12.567034
-I	1400	Algorithm1	12.309272
-I	1400	Algorithm1	12.563584
-I	1400	Algorithm1	12.024373
-I	1400	Algorithm1	12.259303
-I	1400	Algorithm1	12.120454
-I	1400	Algorithm1	12.170761
-I	1400	Algorithm1	12.667059
-I	1400	Algorithm1	12.374863
-I	1400	Algorithm1	12.170468
-I	1400	Algorithm1	12.183514
-I	1400	Algorithm1	12.123993
-I	1400	Algorithm1	12.391988
-I	1400	Algorithm1	12.552789
-I	1400	Algorithm1	12.481599
-I	1400	Algorithm1	12.664790
-I	1400	Algorithm1	12.408351
-I	1400	Algorithm1	12.439654
-I	1400	Algorithm1	12.474185
-I	1400	Algorithm2	83.914192
-I	1400	Algorithm2	83.259541
-I	1400	Algorithm2	83.228396
-I	1400	Algorithm2	84.282695
-I	1400	Algorithm2	83.819667
-I	1400	Algorithm2	82.766723
-I	1400	Algorithm2	83.668252
-I	1400	Algorithm2	84.371619
-I	1400	Algorithm2	83.722914
-I	1400	Algorithm2	84.342757
-I	1400	Algorithm2	82.544062
-I	1400	Algorithm2	84.107995
-I	1400	Algorithm2	83.450422
-I	1400	Algorithm2	83.658424
-I	1400	Algorithm2	83.630262
-I	1400	Algorithm2	84.294821
-I	1400	Algorithm2	83.987297
-I	1400	Algorithm2	83.883570
-I	1400	Algorithm2	82.593072
-I	1400	Algorithm2	84.284831
-I	1400	Algorithm3	51.095199
-I	1400	Algorithm3	51.209053
-I	1400	Algorithm3	51.848329
-I	1400	Algorithm3	53.112931
-I	1400	Algorithm3	51.418754
-I	1400	Algorithm3	50.805769
-I	1400	Algorithm3	51.444417
-I	1400	Algorithm3	51.647126
-I	1400	Algorithm3	52.323251
-I	1400	Algorithm3	51.840016
-I	1400	Algorithm3	53.397064
-I	1400	Algorithm3	53.002069
-I	1400	Algorithm3	51.481446
-I	1400	Algorithm3	50.699192
-I	1400	Algorithm3	50.725857
-I	1400	Algorithm3	52.612444
-I	1400	Algorithm3	51.685716
-I	1400	Algorithm3	51.636793
-I	1400	Algorithm3	51.761591
-I	1400	Algorithm3	52.527651
-I	1600	Algorithm1	27.198991
-I	1600	Algorithm1	26.486600
-I	1600	Algorithm1	26.779044
-I	1600	Algorithm1	26.887147
-I	1600	Algorithm1	26.699272
-I	1600	Algorithm1	26.282294
-I	1600	Algorithm1	25.945267
-I	1600	Algorithm1	26.891750
-I	1600	Algorithm1	25.942016
-I	1600	Algorithm1	26.175402
-I	1600	Algorithm1	27.222440
-I	1600	Algorithm1	27.150851
-I	1600	Algorithm1	26.670126
-I	1600	Algorithm1	26.724430
-I	1600	Algorithm1	26.226448
-I	1600	Algorithm1	26.741561
-I	1600	Algorithm1	26.469807
-I	1600	Algorithm1	26.110697
-I	1600	Algorithm1	25.942768
-I	1600	Algorithm1	27.264093
-I	1600	Algorithm2	140.455436
-I	1600	Algorithm2	138.988839
-I	1600	Algorithm2	137.850442
-I	1600	Algorithm2	136.605153
-I	1600	Algorithm2	137.482323
-I	1600	Algorithm2	138.243352
-I	1600	Algorithm2	138.434294
-I	1600	Algorithm2	140.941176
-I	1600	Algorithm2	136.975169
-I	1600	Algorithm2	138.955424
-I	1600	Algorithm2	138.950517
-I	1600	Algorithm2	137.327176
-I	1600	Algorithm2	138.847290
-I	1600	Algorithm2	137.184888
-I	1600	Algorithm2	135.941596
-I	1600	Algorithm2	141.040970
-I	1600	Algorithm2	140.543611
-I	1600	Algorithm2	140.699728
-I	1600	Algorithm2	139.193836
-I	1600	Algorithm2	141.393110
-I	1600	Algorithm3	94.816903
-I	1600	Algorithm3	96.800232
-I	1600	Algorithm3	131.280982
-I	1600	Algorithm3	139.082674
-I	1600	Algorithm3	129.952820
-I	1600	Algorithm3	102.907391
-I	1600	Algorithm3	106.646023
-I	1600	Algorithm3	177.120052
-I	1600	Algorithm3	147.078755
-I	1600	Algorithm3	88.599667
-I	1600	Algorithm3	124.403276
-I	1600	Algorithm3	165.874142
-I	1600	Algorithm3	134.776717
-I	1600	Algorithm3	122.487293
-I	1600	Algorithm3	91.612538
-I	1600	Algorithm3	127.360234
-I	1600	Algorithm3	174.273563
-I	1600	Algorithm3	153.084981
-I	1600	Algorithm3	155.881013
-I	1600	Algorithm3	134.143298
-I	1800	Algorithm1	27.112111
-I	1800	Algorithm1	30.592127
-I	1800	Algorithm1	67.045951
-I	1800	Algorithm1	45.779649
-I	1800	Algorithm1	44.816439
-I	1800	Algorithm1	58.775236
-I	1800	Algorithm1	61.615881
-I	1800	Algorithm1	46.998567
-I	1800	Algorithm1	70.598394
-I	1800	Algorithm1	59.602386
-I	1800	Algorithm1	51.351651
-I	1800	Algorithm1	31.254209
-I	1800	Algorithm1	43.257269
-I	1800	Algorithm1	38.557262
-I	1800	Algorithm1	44.778213
-I	1800	Algorithm1	31.839178
-I	1800	Algorithm1	55.461112
-I	1800	Algorithm1	48.455485
-I	1800	Algorithm1	49.784271
-I	1800	Algorithm1	29.873968
-I	1800	Algorithm2	357.400551
-I	1800	Algorithm2	353.801603
-I	1800	Algorithm2	385.990044
-I	1800	Algorithm2	393.671550
-I	1800	Algorithm2	400.554750
-I	1800	Algorithm2	359.590461
-I	1800	Algorithm2	393.127066
-I	1800	Algorithm2	385.429326
-I	1800	Algorithm2	359.722070
-I	1800	Algorithm2	357.656191
-I	1800	Algorithm2	408.883337
-I	1800	Algorithm2	374.983328
-I	1800	Algorithm2	351.365495
-I	1800	Algorithm2	383.595671
-I	1800	Algorithm2	366.259377
-I	1800	Algorithm2	360.325640
-I	1800	Algorithm2	407.678707
-I	1800	Algorithm2	354.701979
-I	1800	Algorithm2	410.660525
-I	1800	Algorithm2	395.206232
-I	1800	Algorithm3	223.501026
-I	1800	Algorithm3	221.355378
-I	1800	Algorithm3	246.797589
-I	1800	Algorithm3	232.204369
-I	1800	Algorithm3	260.042970
-I	1800	Algorithm3	229.842928
-I	1800	Algorithm3	250.436174
-I	1800	Algorithm3	247.317051
-I	1800	Algorithm3	243.431916
-I	1800	Algorithm3	204.940104
-I	1800	Algorithm3	202.302254
-I	1800	Algorithm3	200.657921
-I	1800	Algorithm3	229.338440
-I	1800	Algorithm3	256.923327
-I	1800	Algorithm3	204.024875
-I	1800	Algorithm3	228.732586
-I	1800	Algorithm3	242.338910
-I	1800	Algorithm3	235.450766
-I	1800	Algorithm3	220.261248
-I	1800	Algorithm3	252.618234
-I	200	Algorithm1	0.027457
-I	200	Algorithm1	0.027629
-I	200	Algorithm1	0.027563
-I	200	Algorithm1	0.027574
-I	200	Algorithm1	0.027533
-I	200	Algorithm1	0.027607
-I	200	Algorithm1	0.027452
-I	200	Algorithm1	0.027559
-I	200	Algorithm1	0.027401
-I	200	Algorithm1	0.027630
-I	200	Algorithm1	0.027626
-I	200	Algorithm1	0.027427
-I	200	Algorithm1	0.027634
-I	200	Algorithm1	0.027462
-I	200	Algorithm1	0.027532
-I	200	Algorithm1	0.027409
-I	200	Algorithm1	0.027469
-I	200	Algorithm1	0.027423
-I	200	Algorithm1	0.027472
-I	200	Algorithm1	0.027627
-I	200	Algorithm2	0.150212
-I	200	Algorithm2	0.150414
-I	200	Algorithm2	0.151038
-I	200	Algorithm2	0.151109
-I	200	Algorithm2	0.150133
-I	200	Algorithm2	0.150877
-I	200	Algorithm2	0.149783
-I	200	Algorithm2	0.150318
-I	200	Algorithm2	0.149861
-I	200	Algorithm2	0.150802
-I	200	Algorithm2	0.149830
-I	200	Algorithm2	0.150395
-I	200	Algorithm2	0.150141
-I	200	Algorithm2	0.149872
-I	200	Algorithm2	0.150948
-I	200	Algorithm2	0.151181
-I	200	Algorithm2	0.149928
-I	200	Algorithm2	0.149692
-I	200	Algorithm2	0.149846
-I	200	Algorithm2	0.151095
-I	200	Algorithm3	0.061943
-I	200	Algorithm3	0.059553
-I	200	Algorithm3	0.061659
-I	200	Algorithm3	0.058647
-I	200	Algorithm3	0.058191
-I	200	Algorithm3	0.061554
-I	200	Algorithm3	0.058305
-I	200	Algorithm3	0.059022
-I	200	Algorithm3	0.058202
-I	200	Algorithm3	0.061957
-I	200	Algorithm3	0.061518
-I	200	Algorithm3	0.058729
-I	200	Algorithm3	0.058904
-I	200	Algorithm3	0.060843
-I	200	Algorithm3	0.060343
-I	200	Algorithm3	0.059826
-I	200	Algorithm3	0.061632
-I	200	Algorithm3	0.060109
-I	200	Algorithm3	0.058537
-I	200	Algorithm3	0.062119
-I	2000	Algorithm1	74.634174
-I	2000	Algorithm1	104.743955
-I	2000	Algorithm1	66.291355
-I	2000	Algorithm1	87.702337
-I	2000	Algorithm1	118.831430
-I	2000	Algorithm1	141.955298
-I	2000	Algorithm1	138.156371
-I	2000	Algorithm1	106.591234
-I	2000	Algorithm1	143.819606
-I	2000	Algorithm1	108.118650
-I	2000	Algorithm1	115.896122
-I	2000	Algorithm1	132.057041
-I	2000	Algorithm1	84.090811
-I	2000	Algorithm1	79.151478
-I	2000	Algorithm1	74.682087
-I	2000	Algorithm1	115.908081
-I	2000	Algorithm1	67.828935
-I	2000	Algorithm1	113.590906
-I	2000	Algorithm1	128.255452
-I	2000	Algorithm1	108.707042
-I	2000	Algorithm2	542.190837
-I	2000	Algorithm2	557.001067
-I	2000	Algorithm2	546.526330
-I	2000	Algorithm2	545.392082
-I	2000	Algorithm2	558.485026
-I	2000	Algorithm2	520.904815
-I	2000	Algorithm2	539.857061
-I	2000	Algorithm2	549.579705
-I	2000	Algorithm2	530.670564
-I	2000	Algorithm2	529.152177
-I	2000	Algorithm2	530.272611
-I	2000	Algorithm2	542.888335
-I	2000	Algorithm2	548.772590
-I	2000	Algorithm2	548.840248
-I	2000	Algorithm2	573.117244
-I	2000	Algorithm2	564.072153
-I	2000	Algorithm2	560.348206
-I	2000	Algorithm2	548.235010
-I	2000	Algorithm2	549.337996
-I	2000	Algorithm2	555.741930
-I	2000	Algorithm3	320.186499
-I	2000	Algorithm3	312.519092
-I	2000	Algorithm3	323.004951
-I	2000	Algorithm3	316.042394
-I	2000	Algorithm3	315.986984
-I	2000	Algorithm3	314.078397
-I	2000	Algorithm3	308.731386
-I	2000	Algorithm3	319.192387
-I	2000	Algorithm3	318.154226
-I	2000	Algorithm3	313.674702
-I	2000	Algorithm3	321.216035
-I	2000	Algorithm3	315.490906
-I	2000	Algorithm3	310.121360
-I	2000	Algorithm3	315.449720
-I	2000	Algorithm3	319.307814
-I	2000	Algorithm3	323.072004
-I	2000	Algorithm3	319.220796
-I	2000	Algorithm3	317.696044
-I	2000	Algorithm3	314.185754
-I	2000	Algorithm3	323.084566
-I	2200	Algorithm1	86.249417
-I	2200	Algorithm1	130.021649
-I	2200	Algorithm1	142.767130
-I	2200	Algorithm1	78.861425
-I	2200	Algorithm1	149.843350
-I	2200	Algorithm1	92.547401
-I	2200	Algorithm1	142.661933
-I	2200	Algorithm1	121.212953
-I	2200	Algorithm1	80.861417
-I	2200	Algorithm1	156.736626
-I	2200	Algorithm1	119.784654
-I	2200	Algorithm1	145.490508
-I	2200	Algorithm1	78.898891
-I	2200	Algorithm1	166.148646
-I	2200	Algorithm1	157.947628
-I	2200	Algorithm1	98.291597
-I	2200	Algorithm1	115.290755
-I	2200	Algorithm1	149.294747
-I	2200	Algorithm1	95.298278
-I	2200	Algorithm1	98.063322
-I	2200	Algorithm2	808.295998
-I	2200	Algorithm2	806.613912
-I	2200	Algorithm2	793.193020
-I	2200	Algorithm2	827.071961
-I	2200	Algorithm2	818.631275
-I	2200	Algorithm2	790.326245
-I	2200	Algorithm2	834.396994
-I	2200	Algorithm2	824.267782
-I	2200	Algorithm2	805.761318
-I	2200	Algorithm2	850.626492
-I	2200	Algorithm2	830.884701
-I	2200	Algorithm2	808.187710
-I	2200	Algorithm2	814.916169
-I	2200	Algorithm2	853.960113
-I	2200	Algorithm2	840.208492
-I	2200	Algorithm2	785.410518
-I	2200	Algorithm2	828.392765
-I	2200	Algorithm2	822.632937
-I	2200	Algorithm2	850.684178
-I	2200	Algorithm2	823.048659
-I	2200	Algorithm3	482.373583
-I	2200	Algorithm3	411.490787
-I	2200	Algorithm3	490.411309
-I	2200	Algorithm3	474.222184
-I	2200	Algorithm3	411.913267
-I	2200	Algorithm3	417.981068
-I	2200	Algorithm3	450.180402
-I	2200	Algorithm3	465.995305
-I	2200	Algorithm3	466.339108
-I	2200	Algorithm3	461.439269
-I	2200	Algorithm3	450.859125
-I	2200	Algorithm3	457.885329
-I	2200	Algorithm3	465.844932
-I	2200	Algorithm3	427.571629
-I	2200	Algorithm3	430.135592
-I	2200	Algorithm3	490.607709
-I	2200	Algorithm3	459.921199
-I	2200	Algorithm3	477.153189
-I	2200	Algorithm3	452.803984
-I	2200	Algorithm3	454.428378
-I	2400	Algorithm1	183.591622
-I	2400	Algorithm1	223.878117
-I	2400	Algorithm1	209.816497
-I	2400	Algorithm1	238.503525
-I	2400	Algorithm1	226.718279
-I	2400	Algorithm1	246.879133
-I	2400	Algorithm1	216.120960
-I	2400	Algorithm1	217.795034
-I	2400	Algorithm1	228.438581
-I	2400	Algorithm1	185.485185
-I	2400	Algorithm1	210.659895
-I	2400	Algorithm1	211.563413
-I	2400	Algorithm1	174.685035
-I	2400	Algorithm1	172.380921
-I	2400	Algorithm1	221.102315
-I	2400	Algorithm1	210.724225
-I	2400	Algorithm1	221.163377
-I	2400	Algorithm1	237.556249
-I	2400	Algorithm1	190.936505
-I	2400	Algorithm1	179.718621
-I	2400	Algorithm2	1141.567434
-I	2400	Algorithm2	1139.718720
-I	2400	Algorithm2	1078.798716
-I	2400	Algorithm2	1124.881061
-I	2400	Algorithm2	1129.169840
-I	2400	Algorithm2	1095.610355
-I	2400	Algorithm2	1107.591333
-I	2400	Algorithm2	1092.073664
-I	2400	Algorithm2	1099.782621
-I	2400	Algorithm2	1129.635467
-I	2400	Algorithm2	1115.931114
-I	2400	Algorithm2	1079.506522
-I	2400	Algorithm2	1132.082426
-I	2400	Algorithm2	1123.277644
-I	2400	Algorithm2	1080.653659
-I	2400	Algorithm2	1156.545140
-I	2400	Algorithm2	1079.279296
-I	2400	Algorithm2	1131.520567
-I	2400	Algorithm2	1103.298023
-I	2400	Algorithm2	1076.525430
-I	2400	Algorithm3	620.899490
-I	2400	Algorithm3	619.824939
-I	2400	Algorithm3	620.237662
-I	2400	Algorithm3	617.986932
-I	2400	Algorithm3	641.868302
-I	2400	Algorithm3	636.766158
-I	2400	Algorithm3	639.095309
-I	2400	Algorithm3	640.194279
-I	2400	Algorithm3	631.721904
-I	2400	Algorithm3	637.796572
-I	2400	Algorithm3	624.887599
-I	2400	Algorithm3	638.709941
-I	2400	Algorithm3	633.429544
-I	2400	Algorithm3	622.246129
-I	2400	Algorithm3	636.611990
-I	2400	Algorithm3	626.444654
-I	2400	Algorithm3	638.402217
-I	2400	Algorithm3	628.323763
-I	2400	Algorithm3	620.470398
-I	2400	Algorithm3	617.302655
-I	2600	Algorithm1	279.276389
-I	2600	Algorithm1	251.620328
-I	2600	Algorithm1	273.357640
-I	2600	Algorithm1	262.964607
-I	2600	Algorithm1	277.539342
-I	2600	Algorithm1	272.747518
-I	2600	Algorithm1	252.173155
-I	2600	Algorithm1	253.591002
-I	2600	Algorithm1	252.497996
-I	2600	Algorithm1	263.535068
-I	2600	Algorithm1	251.253152
-I	2600	Algorithm1	263.364605
-I	2600	Algorithm1	271.336399
-I	2600	Algorithm1	268.691475
-I	2600	Algorithm1	277.480456
-I	2600	Algorithm1	258.284234
-I	2600	Algorithm1	271.593683
-I	2600	Algorithm1	256.297428
-I	2600	Algorithm1	256.339980
-I	2600	Algorithm1	256.112610
-I	2600	Algorithm2	1485.141449
-I	2600	Algorithm2	1749.428302
-I	2600	Algorithm2	1506.701102
-I	2600	Algorithm2	1573.679734
-I	2600	Algorithm2	1767.396994
-I	2600	Algorithm2	1503.474975
-I	2600	Algorithm2	1743.917418
-I	2600	Algorithm2	1770.452299
-I	2600	Algorithm2	1600.343427
-I	2600	Algorithm2	1585.254421
-I	2600	Algorithm2	1512.437451
-I	2600	Algorithm2	1760.373316
-I	2600	Algorithm2	1585.510602
-I	2600	Algorithm2	1593.120159
-I	2600	Algorithm2	1701.599502
-I	2600	Algorithm2	1735.945438
-I	2600	Algorithm2	1480.097785
-I	2600	Algorithm2	1671.962771
-I	2600	Algorithm2	1699.228809
-I	2600	Algorithm2	1479.993984
-I	2600	Algorithm3	1009.931250
-I	2600	Algorithm3	970.440104
-I	2600	Algorithm3	959.078458
-I	2600	Algorithm3	962.421402
-I	2600	Algorithm3	942.323907
-I	2600	Algorithm3	1012.000038
-I	2600	Algorithm3	1003.465652
-I	2600	Algorithm3	1010.733020
-I	2600	Algorithm3	945.060448
-I	2600	Algorithm3	1006.193099
-I	2600	Algorithm3	975.297968
-I	2600	Algorithm3	941.173027
-I	2600	Algorithm3	988.669201
-I	2600	Algorithm3	978.710106
-I	2600	Algorithm3	978.789866
-I	2600	Algorithm3	973.652186
-I	2600	Algorithm3	949.507921
-I	2600	Algorithm3	999.132396
-I	2600	Algorithm3	949.017278
-I	2600	Algorithm3	986.355188
-I	2800	Algorithm1	568.407579
-I	2800	Algorithm1	564.895838
-I	2800	Algorithm1	557.795806
-I	2800	Algorithm1	572.590855
-I	2800	Algorithm1	556.176810
-I	2800	Algorithm1	581.766679
-I	2800	Algorithm1	568.188457
-I	2800	Algorithm1	553.172025
-I	2800	Algorithm1	568.444348
-I	2800	Algorithm1	553.124498
-I	2800	Algorithm1	554.875068
-I	2800	Algorithm1	557.557697
-I	2800	Algorithm1	546.395408
-I	2800	Algorithm1	553.592992
-I	2800	Algorithm1	569.867674
-I	2800	Algorithm1	552.193955
-I	2800	Algorithm1	573.872165
-I	2800	Algorithm1	569.573236
-I	2800	Algorithm1	557.901674
-I	2800	Algorithm1	557.902002
-I	2800	Algorithm2	2243.471392
-I	2800	Algorithm2	2291.287020
-I	2800	Algorithm2	2225.966157
-I	2800	Algorithm2	2333.871487
-I	2800	Algorithm2	2230.989638
-I	2800	Algorithm2	2240.622140
-I	2800	Algorithm2	2234.434481
-I	2800	Algorithm2	2266.199507
-I	2800	Algorithm2	2343.868771
-I	2800	Algorithm2	2270.274412
-I	2800	Algorithm2	2307.505949
-I	2800	Algorithm2	2251.095590
-I	2800	Algorithm2	2335.988762
-I	2800	Algorithm2	2336.362013
-I	2800	Algorithm2	2241.238504
-I	2800	Algorithm2	2320.750086
-I	2800	Algorithm2	2212.869751
-I	2800	Algorithm2	2305.387746
-I	2800	Algorithm2	2323.662934
-I	2800	Algorithm2	2300.785251
-I	2800	Algorithm3	1227.790874
-I	2800	Algorithm3	1261.997525
-I	2800	Algorithm3	1252.732295
-I	2800	Algorithm3	1302.956443
-I	2800	Algorithm3	1276.803584
-I	2800	Algorithm3	1226.380334
-I	2800	Algorithm3	1215.134762
-I	2800	Algorithm3	1270.116220
-I	2800	Algorithm3	1273.215455
-I	2800	Algorithm3	1291.498944
-I	2800	Algorithm3	1315.674978
-I	2800	Algorithm3	1216.789556
-I	2800	Algorithm3	1200.614665
-I	2800	Algorithm3	1300.152486
-I	2800	Algorithm3	1288.675986
-I	2800	Algorithm3	1272.826550
-I	2800	Algorithm3	1250.355698
-I	2800	Algorithm3	1202.642486
-I	2800	Algorithm3	1279.550412
-I	2800	Algorithm3	1236.412182
-I	3000	Algorithm1	809.126925
-I	3000	Algorithm1	801.515621
-I	3000	Algorithm1	755.027545
-I	3000	Algorithm1	778.210126
-I	3000	Algorithm1	748.899200
-I	3000	Algorithm1	766.295899
-I	3000	Algorithm1	798.625697
-I	3000	Algorithm1	795.720348
-I	3000	Algorithm1	812.357253
-I	3000	Algorithm1	791.737274
-I	3000	Algorithm1	763.209124
-I	3000	Algorithm1	805.854734
-I	3000	Algorithm1	753.265417
-I	3000	Algorithm1	784.741973
-I	3000	Algorithm1	797.693868
-I	3000	Algorithm1	814.895662
-I	3000	Algorithm1	751.225865
-I	3000	Algorithm1	756.551434
-I	3000	Algorithm1	752.011336
-I	3000	Algorithm1	766.481513
-I	3000	Algorithm2	2856.069957
-I	3000	Algorithm2	2890.374105
-I	3000	Algorithm2	2792.920941
-I	3000	Algorithm2	2807.235763
-I	3000	Algorithm2	2815.654630
-I	3000	Algorithm2	2800.710760
-I	3000	Algorithm2	2869.755437
-I	3000	Algorithm2	2861.319456
-I	3000	Algorithm2	2881.693858
-I	3000	Algorithm2	2787.880735
-I	3000	Algorithm2	2815.678408
-I	3000	Algorithm2	2820.095315
-I	3000	Algorithm2	2871.142521
-I	3000	Algorithm2	2848.393189
-I	3000	Algorithm2	2850.000111
-I	3000	Algorithm2	2790.671200
-I	3000	Algorithm2	2815.256037
-I	3000	Algorithm2	2789.131036
-I	3000	Algorithm2	2841.370690
-I	3000	Algorithm2	2838.743553
-I	3000	Algorithm3	1567.414950
-I	3000	Algorithm3	1567.112838
-I	3000	Algorithm3	1605.683234
-I	3000	Algorithm3	1574.082507
-I	3000	Algorithm3	1635.031679
-I	3000	Algorithm3	1552.922255
-I	3000	Algorithm3	1609.069362
-I	3000	Algorithm3	1587.431170
-I	3000	Algorithm3	1628.201171
-I	3000	Algorithm3	1637.870986
-I	3000	Algorithm3	1601.890404
-I	3000	Algorithm3	1584.019615
-I	3000	Algorithm3	1571.133604
-I	3000	Algorithm3	1550.257574
-I	3000	Algorithm3	1627.274624
-I	3000	Algorithm3	1621.090253
-I	3000	Algorithm3	1603.174894
-I	3000	Algorithm3	1573.031195
-I	3000	Algorithm3	1600.598772
-I	3000	Algorithm3	1577.529547
-I	400	Algorithm1	0.231174
-I	400	Algorithm1	0.231180
-I	400	Algorithm1	0.230957
-I	400	Algorithm1	0.231235
-I	400	Algorithm1	0.231168
-I	400	Algorithm1	0.231138
-I	400	Algorithm1	0.230818
-I	400	Algorithm1	0.231219
-I	400	Algorithm1	0.230382
-I	400	Algorithm1	0.231193
-I	400	Algorithm1	0.230467
-I	400	Algorithm1	0.231101
-I	400	Algorithm1	0.231300
-I	400	Algorithm1	0.230525
-I	400	Algorithm1	0.230854
-I	400	Algorithm1	0.231012
-I	400	Algorithm1	0.231391
-I	400	Algorithm1	0.231422
-I	400	Algorithm1	0.230681
-I	400	Algorithm1	0.230994
-I	400	Algorithm2	1.410348
-I	400	Algorithm2	1.390351
-I	400	Algorithm2	1.357382
-I	400	Algorithm2	1.363249
-I	400	Algorithm2	1.323508
-I	400	Algorithm2	1.345183
-I	400	Algorithm2	1.330941
-I	400	Algorithm2	1.352389
-I	400	Algorithm2	1.333076
-I	400	Algorithm2	1.361107
-I	400	Algorithm2	1.333159
-I	400	Algorithm2	1.418693
-I	400	Algorithm2	1.378329
-I	400	Algorithm2	1.345917
-I	400	Algorithm2	1.334406
-I	400	Algorithm2	1.410160
-I	400	Algorithm2	1.362159
-I	400	Algorithm2	1.386208
-I	400	Algorithm2	1.418773
-I	400	Algorithm2	1.402399
-I	400	Algorithm3	0.547821
-I	400	Algorithm3	0.536004
-I	400	Algorithm3	0.549477
-I	400	Algorithm3	0.538328
-I	400	Algorithm3	0.571547
-I	400	Algorithm3	0.532948
-I	400	Algorithm3	0.552742
-I	400	Algorithm3	0.530303
-I	400	Algorithm3	0.570196
-I	400	Algorithm3	0.570399
-I	400	Algorithm3	0.555280
-I	400	Algorithm3	0.535713
-I	400	Algorithm3	0.541022
-I	400	Algorithm3	0.575501
-I	400	Algorithm3	0.534617
-I	400	Algorithm3	0.550364
-I	400	Algorithm3	0.560100
-I	400	Algorithm3	0.568440
-I	400	Algorithm3	0.546184
-I	400	Algorithm3	0.552290
-I	600	Algorithm1	0.781613
-I	600	Algorithm1	0.788517
-I	600	Algorithm1	0.791233
-I	600	Algorithm1	0.790443
-I	600	Algorithm1	0.786053
-I	600	Algorithm1	0.782047
-I	600	Algorithm1	0.783462
-I	600	Algorithm1	0.783707
-I	600	Algorithm1	0.792412
-I	600	Algorithm1	0.791434
-I	600	Algorithm1	0.790497
-I	600	Algorithm1	0.783085
-I	600	Algorithm1	0.791475
-I	600	Algorithm1	0.791956
-I	600	Algorithm1	0.789521
-I	600	Algorithm1	0.786925
-I	600	Algorithm1	0.783195
-I	600	Algorithm1	0.788755
-I	600	Algorithm1	0.791854
-I	600	Algorithm1	0.789925
-I	600	Algorithm2	5.702347
-I	600	Algorithm2	5.275785
-I	600	Algorithm2	5.870024
-I	600	Algorithm2	5.397069
-I	600	Algorithm2	5.473006
-I	600	Algorithm2	5.492029
-I	600	Algorithm2	5.573248
-I	600	Algorithm2	5.750543
-I	600	Algorithm2	5.521238
-I	600	Algorithm2	5.739526
-I	600	Algorithm2	5.392021
-I	600	Algorithm2	5.296194
-I	600	Algorithm2	6.037234
-I	600	Algorithm2	5.890687
-I	600	Algorithm2	6.132033
-I	600	Algorithm2	5.652049
-I	600	Algorithm2	5.377448
-I	600	Algorithm2	6.108960
-I	600	Algorithm2	6.132379
-I	600	Algorithm2	5.767180
-I	600	Algorithm3	2.253673
-I	600	Algorithm3	2.355098
-I	600	Algorithm3	2.323226
-I	600	Algorithm3	2.322863
-I	600	Algorithm3	2.433333
-I	600	Algorithm3	2.318789
-I	600	Algorithm3	2.342162
-I	600	Algorithm3	2.327495
-I	600	Algorithm3	2.342068
-I	600	Algorithm3	2.234782
-I	600	Algorithm3	2.361530
-I	600	Algorithm3	2.295503
-I	600	Algorithm3	2.298241
-I	600	Algorithm3	2.258946
-I	600	Algorithm3	2.242804
-I	600	Algorithm3	2.244085
-I	600	Algorithm3	2.325013
-I	600	Algorithm3	2.310976
-I	600	Algorithm3	2.245862
-I	600	Algorithm3	2.327445
-I	800	Algorithm1	2.472123
-I	800	Algorithm1	2.512398
-I	800	Algorithm1	2.475138
-I	800	Algorithm1	2.556332
-I	800	Algorithm1	2.528745
-I	800	Algorithm1	2.516810
-I	800	Algorithm1	2.535199
-I	800	Algorithm1	2.518867
-I	800	Algorithm1	2.526311
-I	800	Algorithm1	2.520629
-I	800	Algorithm1	2.456088
-I	800	Algorithm1	2.514820
-I	800	Algorithm1	2.468752
-I	800	Algorithm1	2.456317
-I	800	Algorithm1	2.487165
-I	800	Algorithm1	2.484253
-I	800	Algorithm1	2.554105
-I	800	Algorithm1	2.520862
-I	800	Algorithm1	2.466906
-I	800	Algorithm1	2.455851
-I	800	Algorithm2	15.132622
-I	800	Algorithm2	15.439368
-I	800	Algorithm2	15.232049
-I	800	Algorithm2	14.882984
-I	800	Algorithm2	15.439896
-I	800	Algorithm2	15.267559
-I	800	Algorithm2	15.506887
-I	800	Algorithm2	15.472971
-I	800	Algorithm2	14.835476
-I	800	Algorithm2	15.295855
-I	800	Algorithm2	15.025588
-I	800	Algorithm2	15.140240
-I	800	Algorithm2	14.829213
-I	800	Algorithm2	15.622722
-I	800	Algorithm2	14.899812
-I	800	Algorithm2	15.442451
-I	800	Algorithm2	15.473429
-I	800	Algorithm2	14.793907
-I	800	Algorithm2	14.966407
-I	800	Algorithm2	15.021776
-I	800	Algorithm3	8.062901
-I	800	Algorithm3	7.736542
-I	800	Algorithm3	7.628560
-I	800	Algorithm3	8.124513
-I	800	Algorithm3	8.198954
-I	800	Algorithm3	7.691695
-I	800	Algorithm3	7.969562
-I	800	Algorithm3	7.587845
-I	800	Algorithm3	7.959618
-I	800	Algorithm3	7.783447
-I	800	Algorithm3	8.230952
-I	800	Algorithm3	7.523671
-I	800	Algorithm3	7.765539
-I	800	Algorithm3	7.541061
-I	800	Algorithm3	7.542969
-I	800	Algorithm3	7.377948
-I	800	Algorithm3	8.034442
-I	800	Algorithm3	7.737873
-I	800	Algorithm3	8.319427
-I	800	Algorithm3	7.843748
+Node,Load,Algorithm,Time
+I,100,Algorithm1,0.003449
+I,100,Algorithm1,0.003420
+I,100,Algorithm1,0.003435
+I,100,Algorithm1,0.003427
+I,100,Algorithm1,0.003412
+I,100,Algorithm1,0.003442
+I,100,Algorithm1,0.003429
+I,100,Algorithm1,0.003408
+I,100,Algorithm1,0.003451
+I,100,Algorithm1,0.003435
+I,100,Algorithm2,0.017452
+I,100,Algorithm2,0.017424
+I,100,Algorithm2,0.017467
+I,100,Algorithm2,0.017418
+I,100,Algorithm2,0.017426
+I,100,Algorithm2,0.017414
+I,100,Algorithm2,0.017437
+I,100,Algorithm2,0.017438
+I,100,Algorithm2,0.017456
+I,100,Algorithm2,0.017480
+I,100,Algorithm3,0.005894
+I,100,Algorithm3,0.005945
+I,100,Algorithm3,0.005737
+I,100,Algorithm3,0.005736
+I,100,Algorithm3,0.005717
+I,100,Algorithm3,0.005728
+I,100,Algorithm3,0.005773
+I,100,Algorithm3,0.005734
+I,100,Algorithm3,0.005768
+I,100,Algorithm3,0.005886
+I,200,Algorithm1,0.027658
+I,200,Algorithm1,0.027618
+I,200,Algorithm1,0.027435
+I,200,Algorithm1,0.027492
+I,200,Algorithm1,0.027459
+I,200,Algorithm1,0.027415
+I,200,Algorithm1,0.027393
+I,200,Algorithm1,0.027529
+I,200,Algorithm1,0.027526
+I,200,Algorithm1,0.027475
+I,200,Algorithm2,0.151209
+I,200,Algorithm2,0.150989
+I,200,Algorithm2,0.150239
+I,200,Algorithm2,0.151021
+I,200,Algorithm2,0.149684
+I,200,Algorithm2,0.149995
+I,200,Algorithm2,0.149598
+I,200,Algorithm2,0.149054
+I,200,Algorithm2,0.149447
+I,200,Algorithm2,0.151237
+I,200,Algorithm3,0.062196
+I,200,Algorithm3,0.060036
+I,200,Algorithm3,0.058369
+I,200,Algorithm3,0.058582
+I,200,Algorithm3,0.059314
+I,200,Algorithm3,0.058973
+I,200,Algorithm3,0.057792
+I,200,Algorithm3,0.059846
+I,200,Algorithm3,0.060429
+I,200,Algorithm3,0.059025
+I,400,Algorithm1,0.231311
+I,400,Algorithm1,0.230717
+I,400,Algorithm1,0.231384
+I,400,Algorithm1,0.230944
+I,400,Algorithm1,0.230792
+I,400,Algorithm1,0.231525
+I,400,Algorithm1,0.230345
+I,400,Algorithm1,0.231225
+I,400,Algorithm1,0.231323
+I,400,Algorithm1,0.230546
+I,400,Algorithm2,1.368320
+I,400,Algorithm2,1.320933
+I,400,Algorithm2,1.358904
+I,400,Algorithm2,1.367566
+I,400,Algorithm2,1.322575
+I,400,Algorithm2,1.332228
+I,400,Algorithm2,1.320961
+I,400,Algorithm2,1.317194
+I,400,Algorithm2,1.388389
+I,400,Algorithm2,1.431514
+I,400,Algorithm3,0.559129
+I,400,Algorithm3,0.529822
+I,400,Algorithm3,0.558595
+I,400,Algorithm3,0.550068
+I,400,Algorithm3,0.549755
+I,400,Algorithm3,0.549732
+I,400,Algorithm3,0.562802
+I,400,Algorithm3,0.548576
+I,400,Algorithm3,0.552056
+I,400,Algorithm3,0.576943
+I,600,Algorithm1,0.782513
+I,600,Algorithm1,0.784044
+I,600,Algorithm1,0.782240
+I,600,Algorithm1,0.783997
+I,600,Algorithm1,0.781492
+I,600,Algorithm1,0.784679
+I,600,Algorithm1,0.782139
+I,600,Algorithm1,0.785455
+I,600,Algorithm1,0.781738
+I,600,Algorithm1,0.793019
+I,600,Algorithm2,5.977686
+I,600,Algorithm2,5.911936
+I,600,Algorithm2,5.726251
+I,600,Algorithm2,5.547997
+I,600,Algorithm2,5.700756
+I,600,Algorithm2,6.136363
+I,600,Algorithm2,5.887671
+I,600,Algorithm2,5.582620
+I,600,Algorithm2,5.235480
+I,600,Algorithm2,5.619083
+I,600,Algorithm3,2.440129
+I,600,Algorithm3,2.233890
+I,600,Algorithm3,2.365305
+I,600,Algorithm3,2.297147
+I,600,Algorithm3,2.327859
+I,600,Algorithm3,2.271553
+I,600,Algorithm3,2.257590
+I,600,Algorithm3,2.305495
+I,600,Algorithm3,2.287233
+I,600,Algorithm3,2.313741
+I,800,Algorithm1,2.493015
+I,800,Algorithm1,2.499244
+I,800,Algorithm1,2.447596
+I,800,Algorithm1,2.558863
+I,800,Algorithm1,2.472232
+I,800,Algorithm1,2.502970
+I,800,Algorithm1,2.471573
+I,800,Algorithm1,2.537994
+I,800,Algorithm1,2.490401
+I,800,Algorithm1,2.496670
+I,800,Algorithm2,14.849271
+I,800,Algorithm2,15.403495
+I,800,Algorithm2,15.652680
+I,800,Algorithm2,15.512441
+I,800,Algorithm2,14.821066
+I,800,Algorithm2,14.839812
+I,800,Algorithm2,14.702113
+I,800,Algorithm2,14.800425
+I,800,Algorithm2,14.855618
+I,800,Algorithm2,14.909663
+I,800,Algorithm3,7.306230
+I,800,Algorithm3,7.557023
+I,800,Algorithm3,7.853691
+I,800,Algorithm3,8.029019
+I,800,Algorithm3,7.531348
+I,800,Algorithm3,8.337956
+I,800,Algorithm3,7.948769
+I,800,Algorithm3,7.418116
+I,800,Algorithm3,7.339644
+I,800,Algorithm3,7.489858
+I,1000,Algorithm1,3.631406
+I,1000,Algorithm1,3.618832
+I,1000,Algorithm1,3.619196
+I,1000,Algorithm1,3.631467
+I,1000,Algorithm1,3.613753
+I,1000,Algorithm1,3.617056
+I,1000,Algorithm1,3.618137
+I,1000,Algorithm1,3.627304
+I,1000,Algorithm1,3.616708
+I,1000,Algorithm1,3.627299
+I,1000,Algorithm2,29.380860
+I,1000,Algorithm2,29.410456
+I,1000,Algorithm2,30.588767
+I,1000,Algorithm2,29.681669
+I,1000,Algorithm2,29.270062
+I,1000,Algorithm2,29.333298
+I,1000,Algorithm2,29.192610
+I,1000,Algorithm2,29.347971
+I,1000,Algorithm2,29.335789
+I,1000,Algorithm2,29.170427
+I,1000,Algorithm3,17.489759
+I,1000,Algorithm3,16.771386
+I,1000,Algorithm3,17.214859
+I,1000,Algorithm3,18.489940
+I,1000,Algorithm3,19.165035
+I,1000,Algorithm3,18.638469
+I,1000,Algorithm3,17.426351
+I,1000,Algorithm3,16.896609
+I,1000,Algorithm3,16.584343
+I,1000,Algorithm3,17.095466
+I,1200,Algorithm1,6.692209
+I,1200,Algorithm1,6.939998
+I,1200,Algorithm1,6.957705
+I,1200,Algorithm1,6.685690
+I,1200,Algorithm1,6.766987
+I,1200,Algorithm1,6.860758
+I,1200,Algorithm1,6.748790
+I,1200,Algorithm1,6.705461
+I,1200,Algorithm1,6.754067
+I,1200,Algorithm1,6.646627
+I,1200,Algorithm2,50.958885
+I,1200,Algorithm2,51.023280
+I,1200,Algorithm2,52.490303
+I,1200,Algorithm2,51.111949
+I,1200,Algorithm2,51.023857
+I,1200,Algorithm2,51.028256
+I,1200,Algorithm2,50.943986
+I,1200,Algorithm2,51.028077
+I,1200,Algorithm2,52.679110
+I,1200,Algorithm2,51.196039
+I,1200,Algorithm3,31.632441
+I,1200,Algorithm3,31.129244
+I,1200,Algorithm3,31.224981
+I,1200,Algorithm3,30.908363
+I,1200,Algorithm3,31.254903
+I,1200,Algorithm3,30.990151
+I,1200,Algorithm3,32.446379
+I,1200,Algorithm3,32.566925
+I,1200,Algorithm3,31.019322
+I,1200,Algorithm3,30.986534
+I,1400,Algorithm1,12.354904
+I,1400,Algorithm1,12.373425
+I,1400,Algorithm1,12.419377
+I,1400,Algorithm1,12.411864
+I,1400,Algorithm1,12.679288
+I,1400,Algorithm1,12.532245
+I,1400,Algorithm1,12.344999
+I,1400,Algorithm1,12.016485
+I,1400,Algorithm1,12.510678
+I,1400,Algorithm1,12.616425
+I,1400,Algorithm2,84.450383
+I,1400,Algorithm2,83.184543
+I,1400,Algorithm2,83.038192
+I,1400,Algorithm2,82.844173
+I,1400,Algorithm2,84.275983
+I,1400,Algorithm2,82.557574
+I,1400,Algorithm2,82.133786
+I,1400,Algorithm2,84.158672
+I,1400,Algorithm2,83.818581
+I,1400,Algorithm2,82.879100
+I,1400,Algorithm3,51.013306
+I,1400,Algorithm3,51.139696
+I,1400,Algorithm3,52.518013
+I,1400,Algorithm3,51.456703
+I,1400,Algorithm3,50.542997
+I,1400,Algorithm3,51.088151
+I,1400,Algorithm3,50.784302
+I,1400,Algorithm3,50.967625
+I,1400,Algorithm3,53.461178
+I,1400,Algorithm3,50.874765
+I,1600,Algorithm1,26.020193
+I,1600,Algorithm1,26.084124
+I,1600,Algorithm1,25.873338
+I,1600,Algorithm1,26.115604
+I,1600,Algorithm1,26.141277
+I,1600,Algorithm1,27.382358
+I,1600,Algorithm1,26.140851
+I,1600,Algorithm1,26.136990
+I,1600,Algorithm1,26.328969
+I,1600,Algorithm1,26.235227
+I,1600,Algorithm2,141.450290
+I,1600,Algorithm2,136.264974
+I,1600,Algorithm2,137.985643
+I,1600,Algorithm2,137.863191
+I,1600,Algorithm2,139.436910
+I,1600,Algorithm2,137.707162
+I,1600,Algorithm2,137.790110
+I,1600,Algorithm2,135.975433
+I,1600,Algorithm2,140.353747
+I,1600,Algorithm2,135.690936
+I,1600,Algorithm3,83.258263
+I,1600,Algorithm3,81.937135
+I,1600,Algorithm3,80.908083
+I,1600,Algorithm3,81.154460
+I,1600,Algorithm3,83.665178
+I,1600,Algorithm3,80.718803
+I,1600,Algorithm3,80.745337
+I,1600,Algorithm3,102.714189
+I,1600,Algorithm3,82.605082
+I,1600,Algorithm3,192.770982
+I,1800,Algorithm1,35.134554
+I,1800,Algorithm1,27.386803
+I,1800,Algorithm1,38.963952
+I,1800,Algorithm1,74.041024
+I,1800,Algorithm1,69.609891
+I,1800,Algorithm1,67.190052
+I,1800,Algorithm1,28.035405
+I,1800,Algorithm1,26.707991
+I,1800,Algorithm1,50.440306
+I,1800,Algorithm1,68.372751
+I,1800,Algorithm2,406.924116
+I,1800,Algorithm2,348.878786
+I,1800,Algorithm2,354.506896
+I,1800,Algorithm2,412.824183
+I,1800,Algorithm2,400.896949
+I,1800,Algorithm2,347.657932
+I,1800,Algorithm2,388.496398
+I,1800,Algorithm2,412.447077
+I,1800,Algorithm2,373.560613
+I,1800,Algorithm2,343.416460
+I,1800,Algorithm3,261.504294
+I,1800,Algorithm3,246.806715
+I,1800,Algorithm3,200.581843
+I,1800,Algorithm3,197.303255
+I,1800,Algorithm3,256.716565
+I,1800,Algorithm3,254.478408
+I,1800,Algorithm3,202.325509
+I,1800,Algorithm3,202.343803
+I,1800,Algorithm3,242.995876
+I,1800,Algorithm3,247.225629
+I,2000,Algorithm1,67.090094
+I,2000,Algorithm1,122.090532
+I,2000,Algorithm1,133.390837
+I,2000,Algorithm1,58.108676
+I,2000,Algorithm1,144.567204
+I,2000,Algorithm1,111.253984
+I,2000,Algorithm1,80.865606
+I,2000,Algorithm1,148.903416
+I,2000,Algorithm1,85.673974
+I,2000,Algorithm1,102.480750
+I,2000,Algorithm2,534.570101
+I,2000,Algorithm2,564.824252
+I,2000,Algorithm2,574.028901
+I,2000,Algorithm2,561.329049
+I,2000,Algorithm2,520.559817
+I,2000,Algorithm2,532.088358
+I,2000,Algorithm2,528.768984
+I,2000,Algorithm2,572.366181
+I,2000,Algorithm2,568.787036
+I,2000,Algorithm2,521.516590
+I,2000,Algorithm3,321.875287
+I,2000,Algorithm3,321.898405
+I,2000,Algorithm3,319.478106
+I,2000,Algorithm3,310.876942
+I,2000,Algorithm3,323.178126
+I,2000,Algorithm3,310.905249
+I,2000,Algorithm3,307.355312
+I,2000,Algorithm3,311.573759
+I,2000,Algorithm3,319.128949
+I,2000,Algorithm3,321.810909
+I,2200,Algorithm1,167.886310
+I,2200,Algorithm1,75.466580
+I,2200,Algorithm1,162.991219
+I,2200,Algorithm1,118.706998
+I,2200,Algorithm1,130.385505
+I,2200,Algorithm1,139.864300
+I,2200,Algorithm1,89.170445
+I,2200,Algorithm1,169.936213
+I,2200,Algorithm1,84.681908
+I,2200,Algorithm1,159.441436
+I,2200,Algorithm2,801.419225
+I,2200,Algorithm2,824.153209
+I,2200,Algorithm2,856.860935
+I,2200,Algorithm2,801.030975
+I,2200,Algorithm2,785.252452
+I,2200,Algorithm2,842.177100
+I,2200,Algorithm2,840.754921
+I,2200,Algorithm2,781.310626
+I,2200,Algorithm2,799.738467
+I,2200,Algorithm2,856.503049
+I,2200,Algorithm3,450.444320
+I,2200,Algorithm3,461.345886
+I,2200,Algorithm3,462.958317
+I,2200,Algorithm3,445.686642
+I,2200,Algorithm3,469.708612
+I,2200,Algorithm3,438.376695
+I,2200,Algorithm3,485.552894
+I,2200,Algorithm3,423.452454
+I,2200,Algorithm3,496.184301
+I,2200,Algorithm3,409.739546
+I,2400,Algorithm1,248.700687
+I,2400,Algorithm1,199.910458
+I,2400,Algorithm1,169.674997
+I,2400,Algorithm1,237.082290
+I,2400,Algorithm1,214.841490
+I,2400,Algorithm1,171.237039
+I,2400,Algorithm1,222.144362
+I,2400,Algorithm1,230.934707
+I,2400,Algorithm1,171.259503
+I,2400,Algorithm1,207.774701
+I,2400,Algorithm2,1158.909958
+I,2400,Algorithm2,1124.713450
+I,2400,Algorithm2,1074.002015
+I,2400,Algorithm2,1124.470632
+I,2400,Algorithm2,1133.890068
+I,2400,Algorithm2,1092.012588
+I,2400,Algorithm2,1096.787219
+I,2400,Algorithm2,1156.877010
+I,2400,Algorithm2,1106.888242
+I,2400,Algorithm2,1093.112235
+I,2400,Algorithm3,640.145092
+I,2400,Algorithm3,632.924341
+I,2400,Algorithm3,635.595797
+I,2400,Algorithm3,641.521644
+I,2400,Algorithm3,633.532581
+I,2400,Algorithm3,617.916728
+I,2400,Algorithm3,613.689829
+I,2400,Algorithm3,614.334744
+I,2400,Algorithm3,614.539737
+I,2400,Algorithm3,644.801750
+I,2600,Algorithm1,258.010788
+I,2600,Algorithm1,276.859772
+I,2600,Algorithm1,279.281231
+I,2600,Algorithm1,279.531435
+I,2600,Algorithm1,258.591887
+I,2600,Algorithm1,259.366830
+I,2600,Algorithm1,251.652179
+I,2600,Algorithm1,249.199014
+I,2600,Algorithm1,251.607459
+I,2600,Algorithm1,272.025006
+I,2600,Algorithm2,1511.692461
+I,2600,Algorithm2,1590.213130
+I,2600,Algorithm2,1502.649694
+I,2600,Algorithm2,1471.943168
+I,2600,Algorithm2,1488.093212
+I,2600,Algorithm2,1485.511216
+I,2600,Algorithm2,1474.428506
+I,2600,Algorithm2,1479.586452
+I,2600,Algorithm2,1630.945488
+I,2600,Algorithm2,1773.460038
+I,2600,Algorithm3,1016.158873
+I,2600,Algorithm3,952.989186
+I,2600,Algorithm3,980.021341
+I,2600,Algorithm3,1012.866190
+I,2600,Algorithm3,971.614356
+I,2600,Algorithm3,940.043408
+I,2600,Algorithm3,996.925331
+I,2600,Algorithm3,1015.177131
+I,2600,Algorithm3,957.470130
+I,2600,Algorithm3,946.559582
+I,2800,Algorithm1,573.594419
+I,2800,Algorithm1,582.485442
+I,2800,Algorithm1,579.341094
+I,2800,Algorithm1,576.859280
+I,2800,Algorithm1,559.623852
+I,2800,Algorithm1,547.639998
+I,2800,Algorithm1,546.928945
+I,2800,Algorithm1,543.539365
+I,2800,Algorithm1,571.689083
+I,2800,Algorithm1,576.161262
+I,2800,Algorithm2,2235.620948
+I,2800,Algorithm2,2248.036564
+I,2800,Algorithm2,2222.171080
+I,2800,Algorithm2,2262.771068
+I,2800,Algorithm2,2212.527499
+I,2800,Algorithm2,2286.107003
+I,2800,Algorithm2,2251.794281
+I,2800,Algorithm2,2280.194989
+I,2800,Algorithm2,2357.076718
+I,2800,Algorithm2,2276.815889
+I,2800,Algorithm3,1287.385905
+I,2800,Algorithm3,1255.951398
+I,2800,Algorithm3,1233.619809
+I,2800,Algorithm3,1190.453141
+I,2800,Algorithm3,1253.050893
+I,2800,Algorithm3,1314.818858
+I,2800,Algorithm3,1286.075356
+I,2800,Algorithm3,1246.854444
+I,2800,Algorithm3,1313.418651
+I,2800,Algorithm3,1321.593738
+I,3000,Algorithm1,756.103451
+I,3000,Algorithm1,788.509872
+I,3000,Algorithm1,829.686478
+I,3000,Algorithm1,751.962851
+I,3000,Algorithm1,801.787438
+I,3000,Algorithm1,818.666830
+I,3000,Algorithm1,758.400356
+I,3000,Algorithm1,815.701564
+I,3000,Algorithm1,803.826824
+I,3000,Algorithm1,745.628314
+I,3000,Algorithm2,2893.315272
+I,3000,Algorithm2,2795.660276
+I,3000,Algorithm2,2886.046040
+I,3000,Algorithm2,2790.375379
+I,3000,Algorithm2,2859.061305
+I,3000,Algorithm2,2823.739617
+I,3000,Algorithm2,2822.901756
+I,3000,Algorithm2,2849.868139
+I,3000,Algorithm2,2782.579452
+I,3000,Algorithm2,2889.305014
+I,3000,Algorithm3,1555.158224
+I,3000,Algorithm3,1585.930109
+I,3000,Algorithm3,1619.348570
+I,3000,Algorithm3,1575.366571
+I,3000,Algorithm3,1564.866985
+I,3000,Algorithm3,1625.151175
+I,3000,Algorithm3,1595.887661
+I,3000,Algorithm3,1549.502205
+I,3000,Algorithm3,1639.167759
+I,3000,Algorithm3,1602.985845
+I,100,Algorithm1,0.00341
+I,100,Algorithm1,0.00341
+I,100,Algorithm1,0.00342
+I,100,Algorithm1,0.00341
+I,100,Algorithm1,0.00343
+I,100,Algorithm1,0.00344
+I,100,Algorithm1,0.00344
+I,100,Algorithm1,0.00343
+I,100,Algorithm1,0.00343
+I,100,Algorithm1,0.00342
+I,100,Algorithm1,0.00342
+I,100,Algorithm1,0.00345
+I,100,Algorithm1,0.00341
+I,100,Algorithm1,0.00345
+I,100,Algorithm1,0.00342
+I,100,Algorithm1,0.00341
+I,100,Algorithm1,0.00341
+I,100,Algorithm1,0.00344
+I,100,Algorithm1,0.00342
+I,100,Algorithm1,0.00342
+I,100,Algorithm2,0.01747
+I,100,Algorithm2,0.01742
+I,100,Algorithm2,0.01741
+I,100,Algorithm2,0.01741
+I,100,Algorithm2,0.01744
+I,100,Algorithm2,0.01747
+I,100,Algorithm2,0.01744
+I,100,Algorithm2,0.01743
+I,100,Algorithm2,0.01745
+I,100,Algorithm2,0.01747
+I,100,Algorithm2,0.01742
+I,100,Algorithm2,0.01748
+I,100,Algorithm2,0.01743
+I,100,Algorithm2,0.01744
+I,100,Algorithm2,0.01742
+I,100,Algorithm2,0.01742
+I,100,Algorithm2,0.01746
+I,100,Algorithm2,0.01746
+I,100,Algorithm2,0.01744
+I,100,Algorithm2,0.01742
+I,100,Algorithm3,0.00588
+I,100,Algorithm3,0.00591
+I,100,Algorithm3,0.00582
+I,100,Algorithm3,0.00582
+I,100,Algorithm3,0.00587
+I,100,Algorithm3,0.00593
+I,100,Algorithm3,0.00592
+I,100,Algorithm3,0.00581
+I,100,Algorithm3,0.00590
+I,100,Algorithm3,0.00580
+I,100,Algorithm3,0.00579
+I,100,Algorithm3,0.00577
+I,100,Algorithm3,0.00586
+I,100,Algorithm3,0.00580
+I,100,Algorithm3,0.00578
+I,100,Algorithm3,0.00577
+I,100,Algorithm3,0.00585
+I,100,Algorithm3,0.00591
+I,100,Algorithm3,0.00586
+I,100,Algorithm3,0.00588
+I,1000,Algorithm1,3.61445
+I,1000,Algorithm1,3.63104
+I,1000,Algorithm1,3.63050
+I,1000,Algorithm1,3.62720
+I,1000,Algorithm1,3.62995
+I,1000,Algorithm1,3.61544
+I,1000,Algorithm1,3.61878
+I,1000,Algorithm1,3.62967
+I,1000,Algorithm1,3.63029
+I,1000,Algorithm1,3.62818
+I,1000,Algorithm1,3.61381
+I,1000,Algorithm1,3.62856
+I,1000,Algorithm1,3.62122
+I,1000,Algorithm1,3.61950
+I,1000,Algorithm1,3.62255
+I,1000,Algorithm1,3.62559
+I,1000,Algorithm1,3.62270
+I,1000,Algorithm1,3.62306
+I,1000,Algorithm1,3.62113
+I,1000,Algorithm1,3.62975
+I,1000,Algorithm2,30.40123
+I,1000,Algorithm2,30.35437
+I,1000,Algorithm2,30.07445
+I,1000,Algorithm2,30.33356
+I,1000,Algorithm2,30.47523
+I,1000,Algorithm2,30.47438
+I,1000,Algorithm2,29.97098
+I,1000,Algorithm2,29.49524
+I,1000,Algorithm2,30.06645
+I,1000,Algorithm2,29.99142
+I,1000,Algorithm2,30.19860
+I,1000,Algorithm2,29.20446
+I,1000,Algorithm2,29.88088
+I,1000,Algorithm2,29.64910
+I,1000,Algorithm2,29.62354
+I,1000,Algorithm2,30.25987
+I,1000,Algorithm2,30.21153
+I,1000,Algorithm2,30.11924
+I,1000,Algorithm2,30.42144
+I,1000,Algorithm2,30.53986
+I,1000,Algorithm3,18.67968
+I,1000,Algorithm3,16.85895
+I,1000,Algorithm3,17.69137
+I,1000,Algorithm3,18.02647
+I,1000,Algorithm3,17.73648
+I,1000,Algorithm3,18.35670
+I,1000,Algorithm3,18.14191
+I,1000,Algorithm3,18.46742
+I,1000,Algorithm3,17.88549
+I,1000,Algorithm3,19.00435
+I,1000,Algorithm3,17.22018
+I,1000,Algorithm3,18.55356
+I,1000,Algorithm3,16.67264
+I,1000,Algorithm3,18.69650
+I,1000,Algorithm3,18.85006
+I,1000,Algorithm3,18.29311
+I,1000,Algorithm3,16.75376
+I,1000,Algorithm3,17.73810
+I,1000,Algorithm3,19.09845
+I,1000,Algorithm3,18.25447
+I,1200,Algorithm1,6.83699
+I,1200,Algorithm1,6.94157
+I,1200,Algorithm1,6.70405
+I,1200,Algorithm1,6.72772
+I,1200,Algorithm1,6.70232
+I,1200,Algorithm1,6.67293
+I,1200,Algorithm1,6.74770
+I,1200,Algorithm1,6.69455
+I,1200,Algorithm1,6.79058
+I,1200,Algorithm1,6.86294
+I,1200,Algorithm1,6.77598
+I,1200,Algorithm1,6.85275
+I,1200,Algorithm1,6.89566
+I,1200,Algorithm1,6.71970
+I,1200,Algorithm1,6.90280
+I,1200,Algorithm1,6.67074
+I,1200,Algorithm1,6.84248
+I,1200,Algorithm1,6.76251
+I,1200,Algorithm1,6.84112
+I,1200,Algorithm1,6.81320
+I,1200,Algorithm2,51.59991
+I,1200,Algorithm2,51.26865
+I,1200,Algorithm2,52.25660
+I,1200,Algorithm2,52.49723
+I,1200,Algorithm2,52.57917
+I,1200,Algorithm2,51.67857
+I,1200,Algorithm2,51.32163
+I,1200,Algorithm2,52.17871
+I,1200,Algorithm2,52.07372
+I,1200,Algorithm2,51.23898
+I,1200,Algorithm2,52.22047
+I,1200,Algorithm2,51.89622
+I,1200,Algorithm2,52.52617
+I,1200,Algorithm2,51.77698
+I,1200,Algorithm2,51.55209
+I,1200,Algorithm2,52.07450
+I,1200,Algorithm2,52.05684
+I,1200,Algorithm2,51.69311
+I,1200,Algorithm2,51.27802
+I,1200,Algorithm2,52.07500
+I,1200,Algorithm3,31.85500
+I,1200,Algorithm3,32.27011
+I,1200,Algorithm3,32.28879
+I,1200,Algorithm3,32.19280
+I,1200,Algorithm3,31.02390
+I,1200,Algorithm3,31.19818
+I,1200,Algorithm3,32.48273
+I,1200,Algorithm3,31.62146
+I,1200,Algorithm3,32.13887
+I,1200,Algorithm3,31.99178
+I,1200,Algorithm3,31.62533
+I,1200,Algorithm3,32.52770
+I,1200,Algorithm3,32.35523
+I,1200,Algorithm3,31.38916
+I,1200,Algorithm3,31.79883
+I,1200,Algorithm3,30.92520
+I,1200,Algorithm3,31.98375
+I,1200,Algorithm3,30.94625
+I,1200,Algorithm3,31.72961
+I,1200,Algorithm3,30.95242
+I,1400,Algorithm1,12.31629
+I,1400,Algorithm1,12.56703
+I,1400,Algorithm1,12.30927
+I,1400,Algorithm1,12.56358
+I,1400,Algorithm1,12.02437
+I,1400,Algorithm1,12.25930
+I,1400,Algorithm1,12.12045
+I,1400,Algorithm1,12.17076
+I,1400,Algorithm1,12.66705
+I,1400,Algorithm1,12.37486
+I,1400,Algorithm1,12.17046
+I,1400,Algorithm1,12.18351
+I,1400,Algorithm1,12.12399
+I,1400,Algorithm1,12.39198
+I,1400,Algorithm1,12.55278
+I,1400,Algorithm1,12.48159
+I,1400,Algorithm1,12.66479
+I,1400,Algorithm1,12.40835
+I,1400,Algorithm1,12.43965
+I,1400,Algorithm1,12.47418
+I,1400,Algorithm2,83.91419
+I,1400,Algorithm2,83.25954
+I,1400,Algorithm2,83.22839
+I,1400,Algorithm2,84.28269
+I,1400,Algorithm2,83.81966
+I,1400,Algorithm2,82.76672
+I,1400,Algorithm2,83.66825
+I,1400,Algorithm2,84.37161
+I,1400,Algorithm2,83.72291
+I,1400,Algorithm2,84.34275
+I,1400,Algorithm2,82.54406
+I,1400,Algorithm2,84.10799
+I,1400,Algorithm2,83.45042
+I,1400,Algorithm2,83.65842
+I,1400,Algorithm2,83.63026
+I,1400,Algorithm2,84.29482
+I,1400,Algorithm2,83.98729
+I,1400,Algorithm2,83.88357
+I,1400,Algorithm2,82.59307
+I,1400,Algorithm2,84.28483
+I,1400,Algorithm3,51.09519
+I,1400,Algorithm3,51.20905
+I,1400,Algorithm3,51.84832
+I,1400,Algorithm3,53.11293
+I,1400,Algorithm3,51.41875
+I,1400,Algorithm3,50.80576
+I,1400,Algorithm3,51.44441
+I,1400,Algorithm3,51.64712
+I,1400,Algorithm3,52.32325
+I,1400,Algorithm3,51.84001
+I,1400,Algorithm3,53.39706
+I,1400,Algorithm3,53.00206
+I,1400,Algorithm3,51.48144
+I,1400,Algorithm3,50.69919
+I,1400,Algorithm3,50.72585
+I,1400,Algorithm3,52.61244
+I,1400,Algorithm3,51.68571
+I,1400,Algorithm3,51.63679
+I,1400,Algorithm3,51.76159
+I,1400,Algorithm3,52.52765
+I,1600,Algorithm1,27.19899
+I,1600,Algorithm1,26.48660
+I,1600,Algorithm1,26.77904
+I,1600,Algorithm1,26.88714
+I,1600,Algorithm1,26.69927
+I,1600,Algorithm1,26.28229
+I,1600,Algorithm1,25.94526
+I,1600,Algorithm1,26.89175
+I,1600,Algorithm1,25.94201
+I,1600,Algorithm1,26.17540
+I,1600,Algorithm1,27.22244
+I,1600,Algorithm1,27.15085
+I,1600,Algorithm1,26.67012
+I,1600,Algorithm1,26.72443
+I,1600,Algorithm1,26.22644
+I,1600,Algorithm1,26.74156
+I,1600,Algorithm1,26.46980
+I,1600,Algorithm1,26.11069
+I,1600,Algorithm1,25.94276
+I,1600,Algorithm1,27.26409
+I,1600,Algorithm2,140.45543
+I,1600,Algorithm2,138.98883
+I,1600,Algorithm2,137.85044
+I,1600,Algorithm2,136.60515
+I,1600,Algorithm2,137.48232
+I,1600,Algorithm2,138.24335
+I,1600,Algorithm2,138.43429
+I,1600,Algorithm2,140.94117
+I,1600,Algorithm2,136.97516
+I,1600,Algorithm2,138.95542
+I,1600,Algorithm2,138.95051
+I,1600,Algorithm2,137.32717
+I,1600,Algorithm2,138.84729
+I,1600,Algorithm2,137.18488
+I,1600,Algorithm2,135.94159
+I,1600,Algorithm2,141.04097
+I,1600,Algorithm2,140.54361
+I,1600,Algorithm2,140.69972
+I,1600,Algorithm2,139.19383
+I,1600,Algorithm2,141.39311
+I,1600,Algorithm3,94.81690
+I,1600,Algorithm3,96.80023
+I,1600,Algorithm3,131.28098
+I,1600,Algorithm3,139.08267
+I,1600,Algorithm3,129.95282
+I,1600,Algorithm3,102.90739
+I,1600,Algorithm3,106.64602
+I,1600,Algorithm3,177.12005
+I,1600,Algorithm3,147.07875
+I,1600,Algorithm3,88.59966
+I,1600,Algorithm3,124.40327
+I,1600,Algorithm3,165.87414
+I,1600,Algorithm3,134.77671
+I,1600,Algorithm3,122.48729
+I,1600,Algorithm3,91.61253
+I,1600,Algorithm3,127.36023
+I,1600,Algorithm3,174.27356
+I,1600,Algorithm3,153.08498
+I,1600,Algorithm3,155.88101
+I,1600,Algorithm3,134.14329
+I,1800,Algorithm1,27.11211
+I,1800,Algorithm1,30.59212
+I,1800,Algorithm1,67.04595
+I,1800,Algorithm1,45.77964
+I,1800,Algorithm1,44.81643
+I,1800,Algorithm1,58.77523
+I,1800,Algorithm1,61.61588
+I,1800,Algorithm1,46.99856
+I,1800,Algorithm1,70.59839
+I,1800,Algorithm1,59.60238
+I,1800,Algorithm1,51.35165
+I,1800,Algorithm1,31.25420
+I,1800,Algorithm1,43.25726
+I,1800,Algorithm1,38.55726
+I,1800,Algorithm1,44.77821
+I,1800,Algorithm1,31.83917
+I,1800,Algorithm1,55.46111
+I,1800,Algorithm1,48.45548
+I,1800,Algorithm1,49.78427
+I,1800,Algorithm1,29.87396
+I,1800,Algorithm2,357.40055
+I,1800,Algorithm2,353.80160
+I,1800,Algorithm2,385.99004
+I,1800,Algorithm2,393.67155
+I,1800,Algorithm2,400.55475
+I,1800,Algorithm2,359.59046
+I,1800,Algorithm2,393.12706
+I,1800,Algorithm2,385.42932
+I,1800,Algorithm2,359.72207
+I,1800,Algorithm2,357.65619
+I,1800,Algorithm2,408.88333
+I,1800,Algorithm2,374.98332
+I,1800,Algorithm2,351.36549
+I,1800,Algorithm2,383.59567
+I,1800,Algorithm2,366.25937
+I,1800,Algorithm2,360.32564
+I,1800,Algorithm2,407.67870
+I,1800,Algorithm2,354.70197
+I,1800,Algorithm2,410.66052
+I,1800,Algorithm2,395.20623
+I,1800,Algorithm3,223.50102
+I,1800,Algorithm3,221.35537
+I,1800,Algorithm3,246.79758
+I,1800,Algorithm3,232.20436
+I,1800,Algorithm3,260.04297
+I,1800,Algorithm3,229.84292
+I,1800,Algorithm3,250.43617
+I,1800,Algorithm3,247.31705
+I,1800,Algorithm3,243.43191
+I,1800,Algorithm3,204.94010
+I,1800,Algorithm3,202.30225
+I,1800,Algorithm3,200.65792
+I,1800,Algorithm3,229.33844
+I,1800,Algorithm3,256.92332
+I,1800,Algorithm3,204.02487
+I,1800,Algorithm3,228.73258
+I,1800,Algorithm3,242.33891
+I,1800,Algorithm3,235.45076
+I,1800,Algorithm3,220.26124
+I,1800,Algorithm3,252.61823
+I,200,Algorithm1,0.02745
+I,200,Algorithm1,0.02762
+I,200,Algorithm1,0.02756
+I,200,Algorithm1,0.02757
+I,200,Algorithm1,0.02753
+I,200,Algorithm1,0.02760
+I,200,Algorithm1,0.02745
+I,200,Algorithm1,0.02755
+I,200,Algorithm1,0.02740
+I,200,Algorithm1,0.02763
+I,200,Algorithm1,0.02762
+I,200,Algorithm1,0.02742
+I,200,Algorithm1,0.02763
+I,200,Algorithm1,0.02746
+I,200,Algorithm1,0.02753
+I,200,Algorithm1,0.02740
+I,200,Algorithm1,0.02746
+I,200,Algorithm1,0.02742
+I,200,Algorithm1,0.02747
+I,200,Algorithm1,0.02762
+I,200,Algorithm2,0.15021
+I,200,Algorithm2,0.15041
+I,200,Algorithm2,0.15103
+I,200,Algorithm2,0.15110
+I,200,Algorithm2,0.15013
+I,200,Algorithm2,0.15087
+I,200,Algorithm2,0.14978
+I,200,Algorithm2,0.15031
+I,200,Algorithm2,0.14986
+I,200,Algorithm2,0.15080
+I,200,Algorithm2,0.14983
+I,200,Algorithm2,0.15039
+I,200,Algorithm2,0.15014
+I,200,Algorithm2,0.14987
+I,200,Algorithm2,0.15094
+I,200,Algorithm2,0.15118
+I,200,Algorithm2,0.14992
+I,200,Algorithm2,0.14969
+I,200,Algorithm2,0.14984
+I,200,Algorithm2,0.15109
+I,200,Algorithm3,0.06194
+I,200,Algorithm3,0.05955
+I,200,Algorithm3,0.06165
+I,200,Algorithm3,0.05864
+I,200,Algorithm3,0.05819
+I,200,Algorithm3,0.06155
+I,200,Algorithm3,0.05830
+I,200,Algorithm3,0.05902
+I,200,Algorithm3,0.05820
+I,200,Algorithm3,0.06195
+I,200,Algorithm3,0.06151
+I,200,Algorithm3,0.05872
+I,200,Algorithm3,0.05890
+I,200,Algorithm3,0.06084
+I,200,Algorithm3,0.06034
+I,200,Algorithm3,0.05982
+I,200,Algorithm3,0.06163
+I,200,Algorithm3,0.06010
+I,200,Algorithm3,0.05853
+I,200,Algorithm3,0.06211
+I,2000,Algorithm1,74.63417
+I,2000,Algorithm1,104.74395
+I,2000,Algorithm1,66.29135
+I,2000,Algorithm1,87.70233
+I,2000,Algorithm1,118.83143
+I,2000,Algorithm1,141.95529
+I,2000,Algorithm1,138.15637
+I,2000,Algorithm1,106.59123
+I,2000,Algorithm1,143.81960
+I,2000,Algorithm1,108.11865
+I,2000,Algorithm1,115.89612
+I,2000,Algorithm1,132.05704
+I,2000,Algorithm1,84.09081
+I,2000,Algorithm1,79.15147
+I,2000,Algorithm1,74.68208
+I,2000,Algorithm1,115.90808
+I,2000,Algorithm1,67.82893
+I,2000,Algorithm1,113.59090
+I,2000,Algorithm1,128.25545
+I,2000,Algorithm1,108.70704
+I,2000,Algorithm2,542.19083
+I,2000,Algorithm2,557.00106
+I,2000,Algorithm2,546.52633
+I,2000,Algorithm2,545.39208
+I,2000,Algorithm2,558.48502
+I,2000,Algorithm2,520.90481
+I,2000,Algorithm2,539.85706
+I,2000,Algorithm2,549.57970
+I,2000,Algorithm2,530.67056
+I,2000,Algorithm2,529.15217
+I,2000,Algorithm2,530.27261
+I,2000,Algorithm2,542.88833
+I,2000,Algorithm2,548.77259
+I,2000,Algorithm2,548.84024
+I,2000,Algorithm2,573.11724
+I,2000,Algorithm2,564.07215
+I,2000,Algorithm2,560.34820
+I,2000,Algorithm2,548.23501
+I,2000,Algorithm2,549.33799
+I,2000,Algorithm2,555.74193
+I,2000,Algorithm3,320.18649
+I,2000,Algorithm3,312.51909
+I,2000,Algorithm3,323.00495
+I,2000,Algorithm3,316.04239
+I,2000,Algorithm3,315.98698
+I,2000,Algorithm3,314.07839
+I,2000,Algorithm3,308.73138
+I,2000,Algorithm3,319.19238
+I,2000,Algorithm3,318.15422
+I,2000,Algorithm3,313.67470
+I,2000,Algorithm3,321.21603
+I,2000,Algorithm3,315.49090
+I,2000,Algorithm3,310.12136
+I,2000,Algorithm3,315.44972
+I,2000,Algorithm3,319.30781
+I,2000,Algorithm3,323.07200
+I,2000,Algorithm3,319.22079
+I,2000,Algorithm3,317.69604
+I,2000,Algorithm3,314.18575
+I,2000,Algorithm3,323.08456
+I,2200,Algorithm1,86.24941
+I,2200,Algorithm1,130.02164
+I,2200,Algorithm1,142.76713
+I,2200,Algorithm1,78.86142
+I,2200,Algorithm1,149.84335
+I,2200,Algorithm1,92.54740
+I,2200,Algorithm1,142.66193
+I,2200,Algorithm1,121.21295
+I,2200,Algorithm1,80.86141
+I,2200,Algorithm1,156.73662
+I,2200,Algorithm1,119.78465
+I,2200,Algorithm1,145.49050
+I,2200,Algorithm1,78.89889
+I,2200,Algorithm1,166.14864
+I,2200,Algorithm1,157.94762
+I,2200,Algorithm1,98.29159
+I,2200,Algorithm1,115.29075
+I,2200,Algorithm1,149.29474
+I,2200,Algorithm1,95.29827
+I,2200,Algorithm1,98.06332
+I,2200,Algorithm2,808.29599
+I,2200,Algorithm2,806.61391
+I,2200,Algorithm2,793.19302
+I,2200,Algorithm2,827.07196
+I,2200,Algorithm2,818.63127
+I,2200,Algorithm2,790.32624
+I,2200,Algorithm2,834.39699
+I,2200,Algorithm2,824.26778
+I,2200,Algorithm2,805.76131
+I,2200,Algorithm2,850.62649
+I,2200,Algorithm2,830.88470
+I,2200,Algorithm2,808.18771
+I,2200,Algorithm2,814.91616
+I,2200,Algorithm2,853.96011
+I,2200,Algorithm2,840.20849
+I,2200,Algorithm2,785.41051
+I,2200,Algorithm2,828.39276
+I,2200,Algorithm2,822.63293
+I,2200,Algorithm2,850.68417
+I,2200,Algorithm2,823.04865
+I,2200,Algorithm3,482.37358
+I,2200,Algorithm3,411.49078
+I,2200,Algorithm3,490.41130
+I,2200,Algorithm3,474.22218
+I,2200,Algorithm3,411.91326
+I,2200,Algorithm3,417.98106
+I,2200,Algorithm3,450.18040
+I,2200,Algorithm3,465.99530
+I,2200,Algorithm3,466.33910
+I,2200,Algorithm3,461.43926
+I,2200,Algorithm3,450.85912
+I,2200,Algorithm3,457.88532
+I,2200,Algorithm3,465.84493
+I,2200,Algorithm3,427.57162
+I,2200,Algorithm3,430.13559
+I,2200,Algorithm3,490.60770
+I,2200,Algorithm3,459.92119
+I,2200,Algorithm3,477.15318
+I,2200,Algorithm3,452.80398
+I,2200,Algorithm3,454.42837
+I,2400,Algorithm1,183.59162
+I,2400,Algorithm1,223.87811
+I,2400,Algorithm1,209.81649
+I,2400,Algorithm1,238.50352
+I,2400,Algorithm1,226.71827
+I,2400,Algorithm1,246.87913
+I,2400,Algorithm1,216.12096
+I,2400,Algorithm1,217.79503
+I,2400,Algorithm1,228.43858
+I,2400,Algorithm1,185.48518
+I,2400,Algorithm1,210.65989
+I,2400,Algorithm1,211.56341
+I,2400,Algorithm1,174.68503
+I,2400,Algorithm1,172.38092
+I,2400,Algorithm1,221.10231
+I,2400,Algorithm1,210.72422
+I,2400,Algorithm1,221.16337
+I,2400,Algorithm1,237.55624
+I,2400,Algorithm1,190.93650
+I,2400,Algorithm1,179.71862
+I,2400,Algorithm2,1141.56743
+I,2400,Algorithm2,1139.71872
+I,2400,Algorithm2,1078.79871
+I,2400,Algorithm2,1124.88106
+I,2400,Algorithm2,1129.16984
+I,2400,Algorithm2,1095.61035
+I,2400,Algorithm2,1107.59133
+I,2400,Algorithm2,1092.07366
+I,2400,Algorithm2,1099.78262
+I,2400,Algorithm2,1129.63546
+I,2400,Algorithm2,1115.93111
+I,2400,Algorithm2,1079.50652
+I,2400,Algorithm2,1132.08242
+I,2400,Algorithm2,1123.27764
+I,2400,Algorithm2,1080.65365
+I,2400,Algorithm2,1156.54514
+I,2400,Algorithm2,1079.27929
+I,2400,Algorithm2,1131.52056
+I,2400,Algorithm2,1103.29802
+I,2400,Algorithm2,1076.52543
+I,2400,Algorithm3,620.89949
+I,2400,Algorithm3,619.82493
+I,2400,Algorithm3,620.23766
+I,2400,Algorithm3,617.98693
+I,2400,Algorithm3,641.86830
+I,2400,Algorithm3,636.76615
+I,2400,Algorithm3,639.09530
+I,2400,Algorithm3,640.19427
+I,2400,Algorithm3,631.72190
+I,2400,Algorithm3,637.79657
+I,2400,Algorithm3,624.88759
+I,2400,Algorithm3,638.70994
+I,2400,Algorithm3,633.42954
+I,2400,Algorithm3,622.24612
+I,2400,Algorithm3,636.61199
+I,2400,Algorithm3,626.44465
+I,2400,Algorithm3,638.40221
+I,2400,Algorithm3,628.32376
+I,2400,Algorithm3,620.47039
+I,2400,Algorithm3,617.30265
+I,2600,Algorithm1,279.27638
+I,2600,Algorithm1,251.62032
+I,2600,Algorithm1,273.35764
+I,2600,Algorithm1,262.96460
+I,2600,Algorithm1,277.53934
+I,2600,Algorithm1,272.74751
+I,2600,Algorithm1,252.17315
+I,2600,Algorithm1,253.59100
+I,2600,Algorithm1,252.49799
+I,2600,Algorithm1,263.53506
+I,2600,Algorithm1,251.25315
+I,2600,Algorithm1,263.36460
+I,2600,Algorithm1,271.33639
+I,2600,Algorithm1,268.69147
+I,2600,Algorithm1,277.48045
+I,2600,Algorithm1,258.28423
+I,2600,Algorithm1,271.59368
+I,2600,Algorithm1,256.29742
+I,2600,Algorithm1,256.33998
+I,2600,Algorithm1,256.11261
+I,2600,Algorithm2,1485.14144
+I,2600,Algorithm2,1749.42830
+I,2600,Algorithm2,1506.70110
+I,2600,Algorithm2,1573.67973
+I,2600,Algorithm2,1767.39699
+I,2600,Algorithm2,1503.47497
+I,2600,Algorithm2,1743.91741
+I,2600,Algorithm2,1770.45229
+I,2600,Algorithm2,1600.34342
+I,2600,Algorithm2,1585.25442
+I,2600,Algorithm2,1512.43745
+I,2600,Algorithm2,1760.37331
+I,2600,Algorithm2,1585.51060
+I,2600,Algorithm2,1593.12015
+I,2600,Algorithm2,1701.59950
+I,2600,Algorithm2,1735.94543
+I,2600,Algorithm2,1480.09778
+I,2600,Algorithm2,1671.96277
+I,2600,Algorithm2,1699.22880
+I,2600,Algorithm2,1479.99398
+I,2600,Algorithm3,1009.93125
+I,2600,Algorithm3,970.44010
+I,2600,Algorithm3,959.07845
+I,2600,Algorithm3,962.42140
+I,2600,Algorithm3,942.32390
+I,2600,Algorithm3,1012.00003
+I,2600,Algorithm3,1003.46565
+I,2600,Algorithm3,1010.73302
+I,2600,Algorithm3,945.06044
+I,2600,Algorithm3,1006.19309
+I,2600,Algorithm3,975.29796
+I,2600,Algorithm3,941.17302
+I,2600,Algorithm3,988.66920
+I,2600,Algorithm3,978.71010
+I,2600,Algorithm3,978.78986
+I,2600,Algorithm3,973.65218
+I,2600,Algorithm3,949.50792
+I,2600,Algorithm3,999.13239
+I,2600,Algorithm3,949.01727
+I,2600,Algorithm3,986.35518
+I,2800,Algorithm1,568.40757
+I,2800,Algorithm1,564.89583
+I,2800,Algorithm1,557.79580
+I,2800,Algorithm1,572.59085
+I,2800,Algorithm1,556.17681
+I,2800,Algorithm1,581.76667
+I,2800,Algorithm1,568.18845
+I,2800,Algorithm1,553.17202
+I,2800,Algorithm1,568.44434
+I,2800,Algorithm1,553.12449
+I,2800,Algorithm1,554.87506
+I,2800,Algorithm1,557.55769
+I,2800,Algorithm1,546.39540
+I,2800,Algorithm1,553.59299
+I,2800,Algorithm1,569.86767
+I,2800,Algorithm1,552.19395
+I,2800,Algorithm1,573.87216
+I,2800,Algorithm1,569.57323
+I,2800,Algorithm1,557.90167
+I,2800,Algorithm1,557.90200
+I,2800,Algorithm2,2243.47139
+I,2800,Algorithm2,2291.28702
+I,2800,Algorithm2,2225.96615
+I,2800,Algorithm2,2333.87148
+I,2800,Algorithm2,2230.98963
+I,2800,Algorithm2,2240.62214
+I,2800,Algorithm2,2234.43448
+I,2800,Algorithm2,2266.19950
+I,2800,Algorithm2,2343.86877
+I,2800,Algorithm2,2270.27441
+I,2800,Algorithm2,2307.50594
+I,2800,Algorithm2,2251.09559
+I,2800,Algorithm2,2335.98876
+I,2800,Algorithm2,2336.36201
+I,2800,Algorithm2,2241.23850
+I,2800,Algorithm2,2320.75008
+I,2800,Algorithm2,2212.86975
+I,2800,Algorithm2,2305.38774
+I,2800,Algorithm2,2323.66293
+I,2800,Algorithm2,2300.78525
+I,2800,Algorithm3,1227.79087
+I,2800,Algorithm3,1261.99752
+I,2800,Algorithm3,1252.73229
+I,2800,Algorithm3,1302.95644
+I,2800,Algorithm3,1276.80358
+I,2800,Algorithm3,1226.38033
+I,2800,Algorithm3,1215.13476
+I,2800,Algorithm3,1270.11622
+I,2800,Algorithm3,1273.21545
+I,2800,Algorithm3,1291.49894
+I,2800,Algorithm3,1315.67497
+I,2800,Algorithm3,1216.78955
+I,2800,Algorithm3,1200.61466
+I,2800,Algorithm3,1300.15248
+I,2800,Algorithm3,1288.67598
+I,2800,Algorithm3,1272.82655
+I,2800,Algorithm3,1250.35569
+I,2800,Algorithm3,1202.64248
+I,2800,Algorithm3,1279.55041
+I,2800,Algorithm3,1236.41218
+I,3000,Algorithm1,809.12692
+I,3000,Algorithm1,801.51562
+I,3000,Algorithm1,755.02754
+I,3000,Algorithm1,778.21012
+I,3000,Algorithm1,748.89920
+I,3000,Algorithm1,766.29589
+I,3000,Algorithm1,798.62569
+I,3000,Algorithm1,795.72034
+I,3000,Algorithm1,812.35725
+I,3000,Algorithm1,791.73727
+I,3000,Algorithm1,763.20912
+I,3000,Algorithm1,805.85473
+I,3000,Algorithm1,753.26541
+I,3000,Algorithm1,784.74197
+I,3000,Algorithm1,797.69386
+I,3000,Algorithm1,814.89566
+I,3000,Algorithm1,751.22586
+I,3000,Algorithm1,756.55143
+I,3000,Algorithm1,752.01133
+I,3000,Algorithm1,766.48151
+I,3000,Algorithm2,2856.06995
+I,3000,Algorithm2,2890.37410
+I,3000,Algorithm2,2792.92094
+I,3000,Algorithm2,2807.23576
+I,3000,Algorithm2,2815.65463
+I,3000,Algorithm2,2800.71076
+I,3000,Algorithm2,2869.75543
+I,3000,Algorithm2,2861.31945
+I,3000,Algorithm2,2881.69385
+I,3000,Algorithm2,2787.88073
+I,3000,Algorithm2,2815.67840
+I,3000,Algorithm2,2820.09531
+I,3000,Algorithm2,2871.14252
+I,3000,Algorithm2,2848.39318
+I,3000,Algorithm2,2850.00011
+I,3000,Algorithm2,2790.67120
+I,3000,Algorithm2,2815.25603
+I,3000,Algorithm2,2789.13103
+I,3000,Algorithm2,2841.37069
+I,3000,Algorithm2,2838.74355
+I,3000,Algorithm3,1567.41495
+I,3000,Algorithm3,1567.11283
+I,3000,Algorithm3,1605.68323
+I,3000,Algorithm3,1574.08250
+I,3000,Algorithm3,1635.03167
+I,3000,Algorithm3,1552.92225
+I,3000,Algorithm3,1609.06936
+I,3000,Algorithm3,1587.43117
+I,3000,Algorithm3,1628.20117
+I,3000,Algorithm3,1637.87098
+I,3000,Algorithm3,1601.89040
+I,3000,Algorithm3,1584.01961
+I,3000,Algorithm3,1571.13360
+I,3000,Algorithm3,1550.25757
+I,3000,Algorithm3,1627.27462
+I,3000,Algorithm3,1621.09025
+I,3000,Algorithm3,1603.17489
+I,3000,Algorithm3,1573.03119
+I,3000,Algorithm3,1600.59877
+I,3000,Algorithm3,1577.52954
+I,400,Algorithm1,0.23117
+I,400,Algorithm1,0.23118
+I,400,Algorithm1,0.23095
+I,400,Algorithm1,0.23123
+I,400,Algorithm1,0.23116
+I,400,Algorithm1,0.23113
+I,400,Algorithm1,0.23081
+I,400,Algorithm1,0.23121
+I,400,Algorithm1,0.23038
+I,400,Algorithm1,0.23119
+I,400,Algorithm1,0.23046
+I,400,Algorithm1,0.23110
+I,400,Algorithm1,0.23130
+I,400,Algorithm1,0.23052
+I,400,Algorithm1,0.23085
+I,400,Algorithm1,0.23101
+I,400,Algorithm1,0.23139
+I,400,Algorithm1,0.23142
+I,400,Algorithm1,0.23068
+I,400,Algorithm1,0.23099
+I,400,Algorithm2,1.41034
+I,400,Algorithm2,1.39035
+I,400,Algorithm2,1.35738
+I,400,Algorithm2,1.36324
+I,400,Algorithm2,1.32350
+I,400,Algorithm2,1.34518
+I,400,Algorithm2,1.33094
+I,400,Algorithm2,1.35238
+I,400,Algorithm2,1.33307
+I,400,Algorithm2,1.36110
+I,400,Algorithm2,1.33315
+I,400,Algorithm2,1.41869
+I,400,Algorithm2,1.37832
+I,400,Algorithm2,1.34591
+I,400,Algorithm2,1.33440
+I,400,Algorithm2,1.41016
+I,400,Algorithm2,1.36215
+I,400,Algorithm2,1.38620
+I,400,Algorithm2,1.41877
+I,400,Algorithm2,1.40239
+I,400,Algorithm3,0.54782
+I,400,Algorithm3,0.53600
+I,400,Algorithm3,0.54947
+I,400,Algorithm3,0.53832
+I,400,Algorithm3,0.57154
+I,400,Algorithm3,0.53294
+I,400,Algorithm3,0.55274
+I,400,Algorithm3,0.53030
+I,400,Algorithm3,0.57019
+I,400,Algorithm3,0.57039
+I,400,Algorithm3,0.55528
+I,400,Algorithm3,0.53571
+I,400,Algorithm3,0.54102
+I,400,Algorithm3,0.57550
+I,400,Algorithm3,0.53461
+I,400,Algorithm3,0.55036
+I,400,Algorithm3,0.56010
+I,400,Algorithm3,0.56844
+I,400,Algorithm3,0.54618
+I,400,Algorithm3,0.55229
+I,600,Algorithm1,0.78161
+I,600,Algorithm1,0.78851
+I,600,Algorithm1,0.79123
+I,600,Algorithm1,0.79044
+I,600,Algorithm1,0.78605
+I,600,Algorithm1,0.78204
+I,600,Algorithm1,0.78346
+I,600,Algorithm1,0.78370
+I,600,Algorithm1,0.79241
+I,600,Algorithm1,0.79143
+I,600,Algorithm1,0.79049
+I,600,Algorithm1,0.78308
+I,600,Algorithm1,0.79147
+I,600,Algorithm1,0.79195
+I,600,Algorithm1,0.78952
+I,600,Algorithm1,0.78692
+I,600,Algorithm1,0.78319
+I,600,Algorithm1,0.78875
+I,600,Algorithm1,0.79185
+I,600,Algorithm1,0.78992
+I,600,Algorithm2,5.70234
+I,600,Algorithm2,5.27578
+I,600,Algorithm2,5.87002
+I,600,Algorithm2,5.39706
+I,600,Algorithm2,5.47300
+I,600,Algorithm2,5.49202
+I,600,Algorithm2,5.57324
+I,600,Algorithm2,5.75054
+I,600,Algorithm2,5.52123
+I,600,Algorithm2,5.73952
+I,600,Algorithm2,5.39202
+I,600,Algorithm2,5.29619
+I,600,Algorithm2,6.03723
+I,600,Algorithm2,5.89068
+I,600,Algorithm2,6.13203
+I,600,Algorithm2,5.65204
+I,600,Algorithm2,5.37744
+I,600,Algorithm2,6.10896
+I,600,Algorithm2,6.13237
+I,600,Algorithm2,5.76718
+I,600,Algorithm3,2.25367
+I,600,Algorithm3,2.35509
+I,600,Algorithm3,2.32322
+I,600,Algorithm3,2.32286
+I,600,Algorithm3,2.43333
+I,600,Algorithm3,2.31878
+I,600,Algorithm3,2.34216
+I,600,Algorithm3,2.32749
+I,600,Algorithm3,2.34206
+I,600,Algorithm3,2.23478
+I,600,Algorithm3,2.36153
+I,600,Algorithm3,2.29550
+I,600,Algorithm3,2.29824
+I,600,Algorithm3,2.25894
+I,600,Algorithm3,2.24280
+I,600,Algorithm3,2.24408
+I,600,Algorithm3,2.32501
+I,600,Algorithm3,2.31097
+I,600,Algorithm3,2.24586
+I,600,Algorithm3,2.32744
+I,800,Algorithm1,2.47212
+I,800,Algorithm1,2.51239
+I,800,Algorithm1,2.47513
+I,800,Algorithm1,2.55633
+I,800,Algorithm1,2.52874
+I,800,Algorithm1,2.51681
+I,800,Algorithm1,2.53519
+I,800,Algorithm1,2.51886
+I,800,Algorithm1,2.52631
+I,800,Algorithm1,2.52062
+I,800,Algorithm1,2.45608
+I,800,Algorithm1,2.51482
+I,800,Algorithm1,2.46875
+I,800,Algorithm1,2.45631
+I,800,Algorithm1,2.48716
+I,800,Algorithm1,2.48425
+I,800,Algorithm1,2.55410
+I,800,Algorithm1,2.52086
+I,800,Algorithm1,2.46690
+I,800,Algorithm1,2.45585
+I,800,Algorithm2,15.13262
+I,800,Algorithm2,15.43936
+I,800,Algorithm2,15.23204
+I,800,Algorithm2,14.88298
+I,800,Algorithm2,15.43989
+I,800,Algorithm2,15.26755
+I,800,Algorithm2,15.50688
+I,800,Algorithm2,15.47297
+I,800,Algorithm2,14.83547
+I,800,Algorithm2,15.29585
+I,800,Algorithm2,15.02558
+I,800,Algorithm2,15.14024
+I,800,Algorithm2,14.82921
+I,800,Algorithm2,15.62272
+I,800,Algorithm2,14.89981
+I,800,Algorithm2,15.44245
+I,800,Algorithm2,15.47342
+I,800,Algorithm2,14.79390
+I,800,Algorithm2,14.96640
+I,800,Algorithm2,15.02177
+I,800,Algorithm3,8.06290
+I,800,Algorithm3,7.73654
+I,800,Algorithm3,7.62856
+I,800,Algorithm3,8.12451
+I,800,Algorithm3,8.19895
+I,800,Algorithm3,7.69169
+I,800,Algorithm3,7.96956
+I,800,Algorithm3,7.58784
+I,800,Algorithm3,7.95961
+I,800,Algorithm3,7.78344
+I,800,Algorithm3,8.23095
+I,800,Algorithm3,7.52367
+I,800,Algorithm3,7.76553
+I,800,Algorithm3,7.54106
+I,800,Algorithm3,7.54296
+I,800,Algorithm3,7.37794
+I,800,Algorithm3,8.03444
+I,800,Algorithm3,7.73787
+I,800,Algorithm3,8.31942
+I,800,Algorithm3,7.84374

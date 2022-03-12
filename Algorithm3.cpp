@@ -36,7 +36,7 @@ void sampleEnd(){
     /*Print the time*/
     endTime = clock();
     double totalTime= ((double) (endTime - start)) / CLOCKS_PER_SEC;
-    printf("%f\t",totalTime);
+    printf("%f",totalTime);
 }
 /*More randomly*/
 float randMM(){

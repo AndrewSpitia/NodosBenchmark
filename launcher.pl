@@ -27,8 +27,9 @@ foreach $size (@Dimension){
 		$File="results/results-$machineName.csv";
 		#print"$File \n";
 		open(FILE,">>",$File) or die "Could not open file $File";
+		print FILE "Node,Load,Algorithm,Time\n";
 		for($i=0;$i<$N;$i++){
-			print FILE "$machineName \t $size \t $exe \t";
+			print FILE "$machineName,$size,$exe,";
 			system "$PATH/$exe $size >> $File";
 			print FILE "\n";
 		}	
